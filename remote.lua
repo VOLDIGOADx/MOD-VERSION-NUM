@@ -1,4 +1,4 @@
-local TABLE_VERSION = 22
+local TABLE_VERSION = 23
 local approvedID = ""
 local accessGranted = false
 
