@@ -393,20 +393,19 @@ function attach()
             UDF1.show()  -- Show the GUI again after 8 seconds
             hideTimer.destroy()  -- Destroy the timer after it has executed
         end
-        hideTimer.Interval = 8000  -- 8 seconds
+        hideTimer.Interval = 25000  -- 8 seconds
         hideTimer.Enabled = true
     end
 end
 
-
-
--- AUTO ATTACH + AUTO MONO (STABLE)
+--========================================
+-- AUTO ATTACH + DELAYED MONO (20s)
 --========================================
 
 local PROCESS_NAME = "BleachBraveSouls.exe"
 
 local attachTimer = nil
-local monoTimer = nil
+local monoDelayTimer = nil
 
 
 -- AUTO ATTACH
@@ -423,7 +422,7 @@ attachTimer.OnTimer = function(t)
         openProcess(pid)
         print("Attached to "..PROCESS_NAME)
 
-        createThread(ActivateMemoryPatch)
+        startMonoDelay() -- start 20 sec delay
 
         t.destroy()
     end
@@ -432,17 +431,39 @@ end
 attachTimer.Enabled = true
 
 
-function ActivateMemoryPatch(thread)
-  sleep(3000) -- change this value if it's still rushing the game
-  if LaunchMonoDataCollector() == 0 then
-  else
-    while monopipe and not monoSymbolList.FullyLoaded do
-    sleep(10)
+-- 20 SECOND DELAY BEFORE MONO
+function startMonoDelay()
+
+    monoDelayTimer = createTimer(nil,false)
+    monoDelayTimer.Interval = 20000  -- 20 seconds
+
+    monoDelayTimer.OnTimer = function(t)
+        print("Trying to enable Mono...")
+        ActivateMemoryPatch()
+        t.destroy()
     end
-  end
-  return;
+
+    monoDelayTimer.Enabled = true
 end
 
+
+-- MONO ACTIVATION
+function ActivateMemoryPatch()
+
+    if type(LaunchMonoDataCollector) ~= "function" then
+        print("Mono function not available")
+        return
+    end
+
+    if LaunchMonoDataCollector() == 0 then
+        print("Mono failed to start")
+    else
+        while monopipe and not monoSymbolList.FullyLoaded do
+            sleep(10)
+        end
+        print("Mono successfully enabled")
+    end
+end
 
 
 
