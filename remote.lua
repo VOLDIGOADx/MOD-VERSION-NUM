@@ -379,40 +379,68 @@ end
 
 
 
+-- Function to attach to the game process
 function attach()
     local GameID = getProcessIDFromProcessName("BleachBraveSouls.exe")
     if GameID ~= getOpenedProcessID() and GameID ~= nil then
         resetToggleBox()
         openProcess("BleachBraveSouls.exe")
-        UDF1.hide()
-        resetTrainerGUI()
-        playLoadingSound()
+        UDF1.hide()  -- Hide the GUI
+        resetTrainerGUI() -- Reset colors instantly
+        playLoadingSound() -- Play the loading sound
         local hideTimer = createTimer(nil, false)
         hideTimer.OnTimer = function()
-            UDF1.show()
-            hideTimer.destroy()
+            UDF1.show()  -- Show the GUI again after 8 seconds
+            hideTimer.destroy()  -- Destroy the timer after it has executed
         end
-        hideTimer.Interval = 8000
+        hideTimer.Interval = 8000  -- 8 seconds
         hideTimer.Enabled = true
     end
 end
 
+
+-- SAFE AUTO MONO ENABLE FOR TRAINERS
+
+local monoTimer = createTimer(nil, false)
+monoTimer.Interval = 1500
 
 local function tryEnableMono()
     if getOpenedProcessID() == 0 then
         return false
     end
 
-    local success, result = pcall(function()
-        return LaunchMonoDataCollector()
-    end)
+    -- make sure CE actually has mono functions loaded
+    if type(LaunchMonoDataCollector) ~= "function" then
+        return false
+    end
 
-    if success and result ~= 0 then
+    local ok, result = pcall(LaunchMonoDataCollector)
+
+    if ok and result ~= 0 then
+
         return true
     end
 
     return false
 end
+
+monoTimer.OnTimer = function(t)
+    if tryEnableMono() then
+        t.destroy()
+    end
+end
+
+function onOpenProcess(processid)
+    monoTimer.Enabled = true
+end
+
+
+
+
+
+
+
+
 
 
 
