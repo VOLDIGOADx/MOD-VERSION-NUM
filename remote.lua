@@ -399,42 +399,64 @@ function attach()
 end
 
 
--- SAFE AUTO MONO ENABLE FOR TRAINERS
+--========================================
+-- AUTO ATTACH + AUTO MONO (STABLE)
+--========================================
 
-local monoTimer = createTimer(nil, false)
-monoTimer.Interval = 1500
+local PROCESS_NAME = "BleachBraveSouls.exe"
 
-local function tryEnableMono()
-    if getOpenedProcessID() == 0 then
-        return false
-    end
+local attachTimer = nil
+local monoTimer = nil
 
-    -- make sure CE actually has mono functions loaded
-    if type(LaunchMonoDataCollector) ~= "function" then
-        return false
-    end
 
-    local ok, result = pcall(LaunchMonoDataCollector)
+-- AUTO ATTACH
+attachTimer = createTimer(nil,false)
+attachTimer.Interval = 2000
 
-    if ok and result ~= 0 then
+attachTimer.OnTimer = function(t)
 
-        return true
-    end
+    if getOpenedProcessID() ~= 0 then return end
 
-    return false
-end
+    local pid = getProcessIDFromProcessName(PROCESS_NAME)
 
-monoTimer.OnTimer = function(t)
-    if tryEnableMono() then
+    if pid then
+        openProcess(pid)
+        print("Attached to "..PROCESS_NAME)
+
+        startMonoTimer()
+
         t.destroy()
     end
 end
 
-function onOpenProcess(processid)
+attachTimer.Enabled = true
+
+
+
+-- MONO ENABLE SYSTEM
+function startMonoTimer()
+
+    monoTimer = createTimer(nil,false)
+    monoTimer.Interval = 1500
+
+    monoTimer.OnTimer = function(t)
+
+        if getOpenedProcessID() == 0 then return end
+
+        if type(LaunchMonoDataCollector) ~= "function" then return end
+
+        local ok,result = pcall(LaunchMonoDataCollector)
+
+        if ok and result ~= 0 then
+            print("Mono enabled successfully")
+
+            t.destroy()
+        end
+
+    end
+
     monoTimer.Enabled = true
 end
-
-
 
 
 
