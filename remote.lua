@@ -397,6 +397,40 @@ function attach()
         hideTimer.Enabled = true
     end
 end
+
+
+--- AUTO ATTACH + AUTO MONO (STABLE)
+--========================================
+
+local PROCESS_NAME = "BleachBraveSouls.exe"
+
+local attachTimer = nil
+local monoTimer = nil
+
+
+-- AUTO ATTACH
+attachTimer = createTimer(nil,false)
+attachTimer.Interval = 2000
+
+attachTimer.OnTimer = function(t)
+
+    if getOpenedProcessID() ~= 0 then return end
+
+    local pid = getProcessIDFromProcessName(PROCESS_NAME)
+
+    if pid then
+        openProcess(pid)
+        print("Attached to "..PROCESS_NAME)
+
+        ActivateMemoryPatch()
+
+        t.destroy()
+    end
+end
+
+attachTimer.Enabled = true
+
+
 function ActivateMemoryPatch()
   if LaunchMonoDataCollector() == 0 then
   else
@@ -405,6 +439,10 @@ function ActivateMemoryPatch()
     end
   end
 end
+
+
+
+
 
 
 
