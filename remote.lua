@@ -399,7 +399,8 @@ function attach()
 end
 
 
---- AUTO ATTACH + AUTO MONO (STABLE)
+-========================================
+-- AUTO ATTACH + AUTO MONO (STABLE)
 --========================================
 
 local PROCESS_NAME = "BleachBraveSouls.exe"
@@ -422,7 +423,7 @@ attachTimer.OnTimer = function(t)
         openProcess(pid)
         print("Attached to "..PROCESS_NAME)
 
-        ActivateMemoryPatch()
+        createThread(ActivateMemoryPatch)
 
         t.destroy()
     end
@@ -431,13 +432,15 @@ end
 attachTimer.Enabled = true
 
 
-function ActivateMemoryPatch()
+function ActivateMemoryPatch(thread)
+  sleep(3000) -- change this value if it's still rushing the game
   if LaunchMonoDataCollector() == 0 then
   else
     while monopipe and not monoSymbolList.FullyLoaded do
     sleep(10)
     end
   end
+  return;
 end
 
 
