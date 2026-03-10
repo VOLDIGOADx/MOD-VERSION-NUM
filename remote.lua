@@ -397,7 +397,14 @@ function attach()
         hideTimer.Enabled = true
     end
 end
-
+function ActivateMemoryPatch()
+  if LaunchMonoDataCollector() == 0 then
+  else
+    while monopipe and not monoSymbolList.FullyLoaded do
+    sleep(10)
+    end
+  end
+end
 
 --========================================
 -- AUTO ATTACH + AUTO MONO (STABLE)
