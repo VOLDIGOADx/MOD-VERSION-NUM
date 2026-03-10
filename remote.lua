@@ -406,69 +406,6 @@ function ActivateMemoryPatch()
   end
 end
 
---========================================
--- AUTO ATTACH + AUTO MONO (STABLE)
---========================================
-
-local PROCESS_NAME = "BleachBraveSouls.exe"
-
-local attachTimer = nil
-local monoTimer = nil
-
-
--- AUTO ATTACH
-attachTimer = createTimer(nil,false)
-attachTimer.Interval = 2000
-
-attachTimer.OnTimer = function(t)
-
-    if getOpenedProcessID() ~= 0 then return end
-
-    local pid = getProcessIDFromProcessName(PROCESS_NAME)
-
-    if pid then
-        openProcess(pid)
-        print("Attached to "..PROCESS_NAME)
-
-        startMonoTimer()
-
-        t.destroy()
-    end
-end
-
-attachTimer.Enabled = true
-
-
-
--- MONO ENABLE SYSTEM
-function startMonoTimer()
-
-    monoTimer = createTimer(nil,false)
-    monoTimer.Interval = 1500
-
-    monoTimer.OnTimer = function(t)
-
-        if getOpenedProcessID() == 0 then return end
-
-        if type(LaunchMonoDataCollector) ~= "function" then return end
-
-        local ok,result = pcall(LaunchMonoDataCollector)
-
-        if ok and result ~= 0 then
-            print("Mono enabled successfully")
-
-            t.destroy()
-        end
-
-    end
-
-    monoTimer.Enabled = true
-end
-
-
-
-
-
 
 
 
