@@ -1,2 +1,5858 @@
-zeref_script="c-rlK3v=UTb;Mr00Z2iTC7JX.mdA:;OCd$#M-o*y1b;RMBq{5(#UDihi4h44#4z{Xq+HGPqy+WD/0N,CeA.}KDBkWKwVTbh,uv;rk]f#%anpbEY0{iucC*Q_,SAi+w%c}S[r4hb0{MU^37V8mNJC*W,/V];[kHf0[wKvzo/qst5V]Axt;)MUd@6wNJbj!LK6_EIlu-Ebcems17ydK,##@[GkU99i0atT_q.9zITTW#(E@@%@lN(NipS[V];9aQg3-0G]xbRz@yCJjtb6J.%7:Yk*nb2z*(-rUEZ}9usd%.9}#6?MgJ4L8Db;)R?z50wfb?ifo-k%Oo4,+7YVs[JK1MUDxrvl@@8sIJgry)}XX8Ov/BJ*7sm3l5hIryd?56t%w8R()8-a,=*PaK;-?X3Sj^@!%FK5^TcUpSTNr#mxm^2bn2a=2!550VS,g9iMaN{0)GH[+wXK7AvF-{J;B@X(e]8]OaJpSj@S5YxiL#K#e]dlq;19Qtfz*/Dc2=sJg@fN^-!F2eEf(3!*LIZV;rVRCSm]{qLioCBOixI)isO*nfK8BXR,a{SeC9:PX?uzTvgMY+3/=hOW6xd.3!fNL-iatZLWfKLp;81Oz!uEX.z.N!h{?fPKNR:M^AKHlH)08bh2i(?VAd1dz7#[O^)+{C^]V]L6[HGDa.h}INxju=!1_BHdSqa?@(NyLlybH5lcyr1-W_G/:9JW3AE8NT8LJ{%E0$(E#Lo_+ef*-Xt3?%}_x;B^?bH3R;Z8wL{k8?_fY7a^%Jppx!o:]Snrf7E2,hm]a:mj3S+ct{5_rZ2MeUsB-z7}qFh]c0VrAF[,X/Q2o80KA(,#q[!Vn4LQYbRgY#Or[7?FK4}S$t!bz3UrRE@cnmwXALKS^,_K:YPz8r.r}.15z-Cc0s1FY]j_fVwd}vnfIg*AKA[TP?L$h+9_8K]1@SPu@qUnuEJC^Bdj(lhHYs{WJ[[+PE9k,yNzub1q#M3p)8Js(MGxM]0RH/0JuG7S,@:U1j_2aI4+Wl,)l.agZ*O*E-S7jT@SDYM*8}FGJ9iTJhjiabl_F/2Z(}jLf(LGH^s(e14F11o4X1$qUjThI-LM)qe;b{b;4qNx^ZlG@OrOhS:RO4VA;H;Ol_F-C$a.f7_1W]lP@Hh^7qf.Dp#M71SJMq!5dLa+5z-Am2Kpl@eN3OrX6HtMKBW6bRr)D68#fl(@KV;%x[^ZUl^CwySI=OUccTw{XD,.YrHRnXPh*!XwR6of-}LVbO,I;!-z/}Mn^R;i(EGt=nb61}]0aZ3o4zfCyZkXs-{/d^TV:!LZ^zQef9u;ffZ4tcV79.J,fHcv]^6hF/ZJv6V!ZJJ^LZxe-jx/.KYxrcpZYytEA+AE,abO6,gDm.!.Rzk]@9fxxm[miJNA((i9O]TXSS2{=]$WLJ9hxioqyoFQzrA?+,b_fdr0Jw9pv*oc90w2g:d,(^[x6OfcNNLl6n.I=!J_?KXxnRf6pKB[dq{P^k;%Vu_1@y7j7kyKZkVJJO0?B4xsh.y9qrBwC-(omru5U9QXdoxqG2Q^@7fc]-6MP/uA678$X2f%,5c)vJ;c@Y9pyrK;xm0)+B]VpfCIxF97]=wUK$DowWaAD}bGNE4h6CZRAGqHq!pmZ2/GqclccZ@HMvR-vux}zKulQc^^m0dONxCmD??C[1gjF)s%jY0JD1@ncodC?4ACT#5;64uiim!^Es[G]vZ3Z%+*@79^}IF?..LOs_j-HWtm*fAbJ=T$phr?h11bP+[Wf[)rM@{Prv+F@J)da;6ayP/Mf?x@gks=m,1pUCSaCG%k8R;/0-![CdS3YurxLn5k1m0zh!h;96fVvG89aR^I:6lY$6m3j#*!atHsK1AB^,H5fjyfJb/kfKuy;(CPu^:)DI3A!:qxqkKa5R6X8ApFnqH(IGG4bQGSQ:Sm@f(=$J;)9[LLb!lA?=%O_MHY108QJT^)a]9[X*m5x6YPVmMf!3hzl]SH%m8xM*66D[SdNPbwFY[X_#E#o/g#$j/f!S9%gg%jei/c*,UN2FjZ#BUBp/KbcHSmLyk-!v!(Lj%#s45j;+[[#E67/dbgiK=1ZUbiZ(c#==)$dVUos}2H%0x3,rSj1E*ch?],1qMdXKsLr;z5s{TnYG-1_NYAI=Mf-df==2R-=4sv$7Ccpb4Ut=!qKrIDH#p%O}FJWI64kRfVuX8LWUB-L@2MnGVX?M6Jm[t*E]ZVv9rNQ%TEl2yp=CSNYQ}wF=uv6F?}F?:z)xZR2ga-Q0^I=AnYkg#kp0v1=KXEpKehJ?5n#%M{s2}G1T)qZR)=Kv1AlkRK=}E5-144TZ{oC;_j,1flh:I/KBr7e]je+4+QN#DSA3QmW,vq![n_W[){0-Fe+m*,oY(B8Ba)PO37FiXhojwUVqWEd:Zpl+^WdKN]ajUa0!@R6s*%[STBEj3BwizZbu2P79F6qJfO8SV_x^0=4]htD!]6X.I1mbU8TU=Re-xofqSX_[mpbFRz$i*AGU5CcuzI)p7NPG%P04irvjx[KHaJ-MOzhStTr9EqZ,tF2i^c.yh^gOO[5feBCXXFY1I^z*maVPsRQq:2Ci#2c54-IyH4-6YT!0Kc)r1);59o[uLf?CH*Bul3kM[87^5h:^]V0nIh-63]R#e5tnyb#u$3m+OA^QW30/WL-K7aVr3uc]1ho]*6d1GUQmncZn:Zw!OHtTued.5-Bgx:X:EwX.,?3?JlV*a_0{(}h+z?3HyN+S{iJ7Bd[^3O8C:%J#X0dwRK5vinWLv:dV7p-3YkthvKeQZF;t1u}8.@5{=a61}++PkOMB#Kynh=gtm=$J9.lX=s4,;M@NJJPBg:Aa_.WLrhIUzAF3SfnU38Cb{xbR2Ez;0UE^p/kScnZzl({c9snuC#uG]c4$PECjt=KX=U+/KxCuQ=JN5hHtIVj;xfB7=aUDHaBtU/BFErHRww#9p(mA-]Yf;]aV?.^yC:+{?1RB*_hHHq$Q5NJ)Klcvci)/Pd6Snrs*R#nEI!6oPCx1FC?$2#nYOG$t?DVg6;bHs{3j.LL2sjQ5,Ln3xm[jGE2WMN^AvUd;TyQs@{okoTMMQz(YEF:4r2DTvXKAe}kU1VKs+EEJ9xmzX(uYD-}nO+T:((Q5nEv0n(^2o9(/v/rT)V0W[L9;LNj@!Nm=L,J7g7OPoX;AM/I:@ZPo@jdzp8@TX[!{#fG2tUq-?uT#It@aOi^8)*bW2m/w4B0G:V#sD]2t*S9F^D[d*@U{g?M$4F6HNrC++g-p]l#9]VNYQ$FdUy0#n5/g@bEee4B@cl])ACAQw9J^$U;gNM_K{tLXP_P2]CKfe/I4.oDj#=IbjMR6=,mg/I5g/%iD8091RU*Vjvt5[dGblMiG/nb^OxN3Z8v%=[S8+9iMng%j=ouQSr3evo%h8T{#lOHfv;w(;C)**;ccMd8;nwH?;=X!vRl3gtzn#e2a}D@d-ZQP^+-./.SspuM_zhq){rRw:x5R7RL))pJ=kYGdfr^t?S?{n3iHfY.=LEu1W*lWlOIcTiDiUY[S3fMnQs,8PMuvA_@ZrT57XfPPSVt/[YPn5F1exR}VN#EkaK)bgY8KqK-;@y:H#fn3!.fLfCs83da,Ci!xJmm:*%rI4Z=Ld@65F%{m1U$k}KDnULJ@xHth}#rUS7)O7sg!8f?[6XCNWCAoR915*CQIK!KcKYS],Q*b(n?J_z5x3F8(c2ZbPOW_spi/2q+z=H9i-INQ:yGS2RaU%e/Qzmlm^-E1E]ylzZpTn6/6VB$+,[c]Exp_^4UVmXWQ,erXX1#[OQWo@ed}n9f$9];lM9Y};$b1IarEantZu.DAV3QDBOS[PAbIN+_n[PltuejX=!pY:1JZqYD8,LnuLk^p{0ng+,Wxx#0650/ieY0+p1kagtnJsc*!A,j!7C7qV$R!1i,$S(aJ7r!?FL:m2XCNl8mjvd#B*#ax@*4;U]N){4(bU+ia?OM]bdD$2J%nZ#eB;4Gs[^C_N6l(P(vS$dF2re4:z5IAH0Li+7fJ-[5)A-)F8eJTba]Yrx%i%fJRXu-Fp={60KNkx/RM%DVEVYLOl}Z[yFtgTkB:u3lkxqXow49l$5:Qqo+aSJ6B}u9FGdp]qtZm??qt6W^:NaXZ?TmFfN$S%_KL#nz;$4Njvelt2!@AbkNOAwfp@(}?DTp0k2?06iPrb8oVY@tQ2(vK8O4E;Q#_S)8agpB:wtMpIeKTMNGLo8[J3a{7$0ZT(;d%iuo(qGPEK_PC(QiNQ^hm(a{?duF}n}fQ_DWwBD6oaIW}BRZw]rZ:rLyaO*w-#PK-bkHBAH*qvJgPu25S]uCDX9Oek}M%A7.%@N(KWc3PN[u,x$v+sqT!V:*jYG9x6h:fOcq5IVc4ln^bvgW)8vYaQmJ)0j#2VJHFPm+Hd-I:$1-X:884u+Cb#/]Ysf5?JRn5/bJsCG=K}H3b4Hog@9oP$38lePl2i6)hp=fJ2ZD7ZHMN9@EuC?]xDcjT0kBB*Ey.(DNoDF%t1Brlr-JQzZ1c+lV$)Q0c]xon7^BYj2m$YIWG]y[O!Qqtn@j=da}dcXjvnI)i[^W;u!3)bBXI4zrFP4IEktU:7%d11Cy%59x@[4TPkrC:T9*a6%PP;Gvfx1+q8jdGkc#L?+WwO_}9Tu=]18BST5Z:n;G58?^2)kBXycPKPBSSG?O_kH*02Sa3o)f%au,Jek1!Iy)5}iG*8ElVYftfrpjZd]ipoa0lT!#C}x,cD{=#np]fj,oiNbjxB}L9VIU19Fe9fbdyKmI$DEJUX2xK9E0mbBbdRC]mq%/a_$j_u{HUSXh644cFTkw%DBipSc8x))]Q{K($_eHR*(.$N-kj/?lfjKh(#oRuL2*06T/S_%/;LHWu3$cz1GO21hpuRHCEW=l[n.zHSOvX6Z:j}ga/}RfI@4#NH89ULXO(PrvPRW;UC@rCY{%^paO*F0P=fKkQf2jeK^2W@dwM%$CF_#F)Vv1+6-WJ8+%8x8^Qq^O;DiS(/PB,?y4-ua*jsh?w9=QJ[6TM%mf/Iz6L-epbU{*t)a0S5@?m@B^b,elG0YoYGs97J[px5=AfMMs?{cuopxo(1:(TfV+c/Lb@H;f=/7R[Larn1Hz%hv8N$,mIsARm/)@GLxy*xME2Ev^Ry[;y%%*unWD*3Gg0j7s?tnWt?{?6lycaIId^3i4((3RRCY!m!a%X-y#DD(peDxw,AH7Bb;1)dQ1:IW$f{TN(e??[hpZhAkKo^xZREjgZQy2T?uhPTwS@WLcKHA3{Ouh0P]:.OcxH/KWPejm9$DR6QfWAs)@xHwd97@PasaKyrNUyzcFm;%y2i@0ZPSbCatoxe.EAn-Ky99XY*Hg^6e+={%]mN7gbbssli;YtDaFJg7*D0LtU7SySE{LRF6vrXg:xd,3:6;z?YXEZ%VA;Z5xkhI^+ED.W=pEz@Phlyv3CsudP]nXeGINbkUAik;_9n7M*fAv-f^rTGA+gGU+lVgUvK/^Al$2lYy,y[LiP12aGj+-@Bv-Q5]^y}6wdtr74;QbdlM*O(MKS6Xv4d1r=XZ?stDJ{Mjiq(H7/:iEvZf5bnB_)Bj7evKRkQgKv@vMY=BIGcJVwEy(}HbisSZKyp5r+YXPrI3Kv!ONQF(Oc-z_G]$:lg?M92;V@6SpLF#y8@-ZYe$i2%2!/Hw;QF%_*x?g{bnkzy?x/RF^8$ygi]^@kwkQ(@fTTJtW$PkudF*#)15M*T^}HP+W.tYkNPrO6pkM9Z[e0rQtjSFS,^EQc08zr2oG#eRbFXqT^$Ccg;SZ]ajl;pPIw.QFc3XSe734w=1WW.r99$$ZKz()E64!d$?RVZB!fo+k4I/b!1K^6Tp!eK50[x^QWVCQqjU27Mw{pWwP8Uj($o?*hV87MX7!@a*R,uO7,!;Rpkq0n9aWHGK[W,M)TDBlKyL,k@cAVf{+ps%*l/:gq0BY4iMIDl)64o/5B--l6ebC}g$n?r@GC^rUjA($}dh*B2l5NjdtIVUb#AjuzFKTn%cO**#3Xj9DWs?5$$PVmz3LyC+dj(D/Z2CxSRW$:3}},+o.k7q0IYmp8sw=S=*(U+5$dxqanEayZC[VH{L%tWIZ-z1so+yL*?OD[ED..ksT_t{o[tMR[}MBne)0S/ZOhne4Q5zAqs=lpm!)i6ds$7y_}V2ja/xln$,JQ2cNbM(S;PNTHdB4nPi4ds}0o6!ej8%JfHDLTbaAk2Xf+RG#E17$%.:?%IC#.{2OMNSuCXbfSWIe+?Rw*,OF@Iq}2^qGJln5IRF9ANF#c?0%Q#qT*lnmM%,ASGV2S.^XQ0ASeR7%jT[Dgv89G[z*v^N[i1@0P.H)9D(;t4[PXR@@b7/Q$1qw?5,faH8s?^(ecOjE-9XjB!W=}vqEm#j}QULGC0E}HRk}IO6MV0sOJ/oASM}O$rQNZnTJZ%uC(Np-kY.FqtawpdGi@}VcpLuBX;Pxw=Wz,bY/P8[A;@LB=i+8t#ks0RGEN+A:G(*qr33zgDz$A#aJ{=a(N9X+jBu{tqvl#DAUxVXyz1*L]@#8VnFRlr4,Vm%OCpOT^w:+5IG/#qtOtK?o-iM#@*(/pR1*{WTVoeDRO;GZZt9#Jj*j+)qU+0W1R(5PIf1p22f#[26Pu2Gn}eU6=FO)q/?S)/L?is7x^#D26D:UvsXs;6!5u_807$Q1FtgFE.oU{G},uUyGdVWUP(h(@__@jd(oJUy}u2sOck3YpFarW*]Ku@^bJ=}Rv0+(#:m1sOsK9}^k{j/now[.Yus)hRHG+rJS(34k$8tVE%GgZf+xODD33[:4uO*!Crout8%IyDCHSNjxt][y%nCkeuKRK)CqK-j1sjrvzt1Su-(9ilO;!pR3:D-:MmFZiPlTvdt$Le42g6S+nKYLa/9$$!Sog7-h1AUW/+8cl!B;H,(+N+4!p:68o!wBA=sF-u7{y(oG#@/;Kb23HS$ghyUN2;exG*oR:b;OSIy!z;ib{p/BIw20:Fx-^tH9eYLHcF34T8g_T*$E*mA5kBp@p@QL_LJ#/$yP_Nk^HiApL6!IV]DWmrKs}YQ@/_HtUdo71DoQ)UUQ!C#*Bx-DB-aT0z*vL.4;u=hL(8BAjco1#:YFnxnhnT_GE}vxCX#7{SJtsMBh+SZ$6/7VmqMz1kuBw]uD*:,qBc2rlK#7qi0_i4?qM4C*qi?(**i=[%sxcZ!l9xKh,a0e^{jvE3tXh0W%=i9nZy3f.i1iD3N98Ju0{3/#b5hlO1^w,n]l6Cr#obb29S%P!%*)PTuhz4rllDO8tq*CRUiC*r.CXFpMj*{Sh^sAlMVJ1c1DA0YkTlu}ZeXlR#O/05Fhp/GIOflXdN@ZzXPbZR:4e{:#RqL4JGB:NPOgv6E.U[[*T@q;V3G8NDHm4:ouoM-}I;_m/lS}W}JL6f{=4FQy4F3n8bDKupH].054^B_;=@__IrpFB=/1MWc3Ipngbz?@TIRcmPT(ciK{)jO]9eXC_@M7t[d[JhNc2f2JtgstozR,brHD{$4YDfT.}]Ay}vzg@1j,*7O*SITB{ja%/csrRGQc}ByIbZZ(r-wjWk3iEe0xD1T(jf(W$3@-]6yQy3+wtC9NmM/4_Mt3W^MJL^SK^PLy?BQ%FMGC#e18kI{RQNLL:=Bas%f:oC%tw{ueG0dGEgKt0k3YK;P0L/S5!!1tt!F?l7uG?yM=GRVYKieOi14,w5TmPt7]88.+Nf3rON]$F5w5I-7}S:V)OpZ7+Fc0nTMIFI;Jg*-mKZ,+5(rs35ktQ?pbj}lwdD9]b#LmMFGpSF)OXN7Z6L#4hBc@G(I*3D@/0O#j.$TdSZWSuK!(!pkfXPP9G]bO%g9l4Smp#7JZn+{K+jY4Vyh+^5fI]7Ya*oXE/tKq@ACX#PppX]l=IkCefST^2vXCY/Ltu4H4(uJxMXT-s+E5tE(B5y#4oIgAYF9^Qq!hi0wI27O$6z#OOTpY^ntT:]85%wr!GNin*Ppj5Pz}Jf.j6Eq@4c{Aqer4H4(t?9zkq14f^WU5dXRsg4nHf2}yLt-@(y7AiowP#]+-QY1z9$2-lhjVyjD#nwI=l2r.-Og4pX4q@4z$f*JB?@_e+*dS(ZhFb5j,3B_8qNEAk9[6uymSI95.3N:1__E2UZfB(WPzY5/e/??{vVd8oC?jGz,HeCM(uHS(]zp80p!!%+)AN0MAg-6g=F1{w*8(1YXq{M/D))Cf4ek=!x]e!fySpJx;Pnd^;g0VBFBf$x:f_]/]oT)aWDxUM-S=aDZHr6?ao$NXI#EEHlCC_m?fcW2:aFXjC]vJraNw}ByFGJEi,+3,YZc64.l,XoA,#E,z9+);,;mjdmI9K+:8RsiZiwneMkjd@vLi=cu%y7i=x)8;+sZ8P3GvHmsA*P5Zw?6G@7D;npVgXzL?Y04WBm^WR7.u3?Htq5%cy2FG)twwNG{F075(+nQfae3eG}i_Du8;QB[o[jrE)2+AQSnlXJjntc.Ym^f?X}.H9q]TpUKa2mon8mLO,4XbgWU9ziZ@dC5_eKcx)m4{4R}3:,wCLV6}HrHS-@C/]wGa%%Us4lnqOD)sLx0OfG6^$ISY8Es}^iX?u1oO.6XYU0:#E/Vj#TSyvwJ]cg^%CfR{,Z)_M2(?Gb$K5Af1{2kG1.z/ZUK4bX+c8d335SBxYJc+ICH1pqG%c-H}%9N:XE57G[S0dJELa@vMqFR6I+yos3nAfHj+lm?(k.O,K/e1K:Vx]641-B(=Aqs)V]Vt!r4qka/!0G?0l/{BcuvLGMe?kWpj?F1NJ0p2r4$k]}HcllNM(YMUY?G[8QN]riWcM0%7UBL4Krt[Bo=@UC0bQ#I!5fv_W*kLy?2X%gP0Pxa*cOCFRUBL4KrW;yV-T]8IPBzM$Ut*N;/avJ,F$F,Ale^=%cv-.P9U$CJS(+,n9cA?3L+=wk0]49lekj-LvodArE,^6r-vk%HQZ1_r;Zc!f9[V4_RZcF3okLi.46F;Wge(HOP?v0_q00f=5=Ck)gIoqy23TS!q00eXLm9dTpj!ef1FT#IRt8wYm)Vo.UA[!m9[W[9$@a^uft3N47*$8#K-XA=t]X;#z^(tCmw{ayS=)33jO9FCW5DoAp@V_J?[@j.9Cn_$+5CTZ_5C%wd[:)IKj@LZ3+^Cig;dw2I64_eM_$11x%Z:wl[!].M8pp7crX=m#qMAE:=TWgj^ZFIpp.C6qoP=5jw=R:]^AcAm^4-IS!_AdmacuaZb*={6XQ{0QV(bx!HEemWQIg$2jgs]lMs?]xG*k4ju-xzpE8=6.%UfXPf+!N*xJVb,w7jbn+EICU[36y5[#(l:PSOqcrV}=tHokzOuov7Kkeo{WoKOOj,IIr)Ud+7g;8YLtCBrwBhzj6-jnSXE0$kpXMbEl848E6IG#_8SVOFC5;aL6o!MMU3Aw=IaEyWlKeisr$?V;]aU1botMW7,7p5mBy4#C@kZyjXq1mkLMqE0*T2A{bWOb9FAmBDbySmMA_C.PCTvnCXZ;{tOVRvD]E=5GB*gpN8LXSnT+l=Sn#bU-%YklK0hSi9wu?u=dBjE@)-Y[1Fj+1hwM^7);oa(E+sKH1$G=bhaWA5056sxtlcEuU2^}fpS/cJW9Pqtf{Y!9gzoNl*$A1l]C,%t?Kffpt^77I=FY!60=Z/exMcg6bD=cuerhdsOv5UX+.P$nvgEf/x/VFlZ#w$JAp-ah,{9Cr)S$J}RyhBei]WH1)5rB:#lZ#2,]sq!t:HdTq/^AT)2*i9eY)#U}u.y@eQ5}Kd8I5BfHCXF/?LF#kZXqF9D:v$,4mXm8$o2b296MbR+jch%@(]=6^x;lowmeSv7pAA+#TcdUArF!$*rc-U3Us^K4Gm.eD7@L{)Hzvj7tI_C6S!{e;Mr-sf)n!k+[U5/K@+78N6ho]rO7%HxG_}nu@sUiG%gOcTH[:Zvyoq]a@(jyGgZ]oZq2U#@R!/{x4GoI%a6B.x@{ewUwS?Ra8+Q8{-wMrBC)?fYN0e*sPpu;4+(p{K.GWuK;{)iD^+ASpWr%My$HwWhv@m}fjj@mi4O70REn0+wyT)=k)=HpqKISuu!8dyq7ean)P!r}rzmvrnRJdZCD!vfb)(%r62!}4KH?.bcv^j.D%R$(HK}#L.sPv$#)u3_w4_+y,a8]QI%imQ(C6/a$to-dm-ogH)!;6o0r[@=UvGOV,@bp*sPq*Ffo$jEw)iYlEZ:/*/JLsMCE{ci:_1{Zv)/byN,/t,S[b9yJc9WM[G}FHYIrz=_-}q.}ohNh=NAQeD!%J={Yi+tq6SqKIoNP#Y7D#q;f$a7W=h4=UX6GTD)A@6d%a,g#CH)6u9$nx[0Ptjv?L3OfW-YMTuRPEX03M5h3wY096kSf^cd6crZq7i]fXB^%@e(J9.9UYdJX10aco}jxmjLfo[:dcVBPw3XV/1@h@+RE*G}itaJUmx23wY;hbsg{}V,.NnUt*OM/oQ[xF(UWmq%rM9uSSs1i)YG6/=_pT)@H1ZY0wdT5hKvMl#:O7YA[ts!;e!sEG;p56kur=SbCnyC9pEU%4J_;fF*cBUCxL*)9]9BZV9XmuyPq#nMH2g#:NkmN)T.gSn6Z[h5lGMVvL:Mao{iMk8]iqH?CC1ej4:_@^6-zMt7*kHlFordVeBM(Y!5WQ[%Vo2{%!^]xJ3LECweO#:TOknEB!H/itoc7;,;VkeE0gW=o4CXeb#I4??#1o*85s@GaG2=Iq)Lth?3/.TVloXiAEO3M?M/C*-ty15#^M!JH8e97U@Y(9gjRZR{P=.bTnUhlA4!N1(-9HcJLGIo?KuA(n!D1$a{-S^P8[1q^U%OO9e-x.$wto7@{im$sy[OtsopAeHyCQar6n0:gH;.+v*kwX-d,3;Yp5]SF4S$LsjtqBukqe4/^VOY)xO/,f/ox-C93d{.]7^Rfy$v0J+9:*b7)HIzo.qrvEe6iUKCV[2M,Y*AIgvA[%-xY6F-jlN#petZw/vh2lzkB[r3(p6bJhCiGX[1:l=NUN%QVZPOBJ=?mi[FYi?-*V*6Lg/EODRH/%$_c?+IWN1II0o-#pud?k5h:1q/*Kg,@0-h_#bTMw$!J.Z)*wdo%k#[Xv4z!qLA[GZkQRFq(A8UDbOIf2sCW]v*pUnD(?WF3^?;Qq-2k]H2Cz]eL*0A{VbqH^.;l!u^Ipu8u}4^ODOcyoYCAhRI{Zj((rC^+juYYtUdO{Y*DVVPVlDBIG(Uy208R@atY3v:og4m]lwt_JU,JjYVy#[PJT##s-}M/(0!2.?2V,3S3z}{sbv9u_s#J3N0DhnWhn]5r6GNdh9S4U7jvN8acKAdnT@Lt}pHy9Cb6Qm@y3#?C5;dnOT2;@Y6cxwA2?L8K2jjs2@6s+@wiOC1T2LC8rCbq:PnI!/OBOvRIF@?Ji7D=teOhG4MGOX]W9*:dapm.Ks=yiX;!;2^L^Mi)2ZP{d/4DT{CMx,eLpL-EWB6EDQtReuFmeJqa({yYCIgl1VJL-(W;mrG.QN5]0L20J(lDAQu3MaxCUY%G9Gz{2*McC7S%*,7nz_ydv;V!Qt^{eVz!R^#y?K0W;WqASwU79#zv@@AErm_1#t3{rlx}hw0kIC_E/Ef/3^AJgwWPVOrR!onPHfe}eKk!LD!aE@aZ3^5#l})Ie73j4#8joJ6I.!hsY.mkiccIBpLA88!ojF[@lrHBq3?vg)w,K@pv^C[ZpK-gEkh-/Hcj(]vWv}um{QKp9-#9$LqkIIgtCyR?HW3oopo]$DapP0n-:ET49q1r.d}TBs4BA)mjDlEAzYLgMpV3%n@R_jh#;%YI0JJX?Yw7SWwS$6nH[=hbF*L4P4aw-Q*hu;LmKdK1[oz]c9Le/2*Mh^+$5NRfNXG/1W!,+yVThT/O^:{0xT[t#aR,OSwRO(jZ]jymD!An9#%Q!elwfp[/vlrQTbspnp9u/l*uV{S8=@YEscrt0zym-Vf5NIr+.?#=/joPS:JhLvyDw%y,wm:Ht10wz$kaxVe9syrDQMbUA-L@cu@PFbKUr4Ic#b-Nm/,T8RwG:rrOdA12BXt8Lp?)=2RlW/k(6UgH?Z)dfbDx%#zRTzbYrRZvT{PhdjNG!d$}!$qcl/.oG$GIg?Vqzs#,k6/$+-nD%4,=55f:ezo=F*/vwX5z[/p:eUFk9nDORwM)-J)]G6E*[,tAN7/2M!.%n4LUU73D8(0dF)HVN.AC8BAA*7tY6mh/g,_APgwhFBJQ-1*eo*UwEWgcjS.+D.8)X2jS:,JZl1j8O:SqGACqV{W]{[KjxDN@50iR#kC-fgV::Toy4.(GW4*h-x-Y:BSEVczK0b5VE+/AKPw^@d_@6GV9e*!oZ/Q8*6mI[#1]-Lt}aShvtuh1w.1)fdng4bS)g5(V:.63^Vzf-V5uWQG#cOZb@?cJJq7SI:oK.;m8WwPV30znM4J[9eazDm4%fe}+hBhWU$hLuO}*r.V-7a;p=p;nmWR@_4qi_R$ilZ:m7E{tIT^:yQxBUce{tNjiO+1diCPp.Y;:?Sn42mP8S6^th$YwNT@y/)#%(dWD(#IMP*c4qGV]9?O@U*#^iqd[[MIPkw#Yfp(fTU4MzS?u9#!l1#^i-c?Sn[])m=,P-.Cz+]6?4Gy^)}-ybBEC)BZ(UDlD(Y6-FYFudf%jI2ieK1mj)T;Stbh*6m%Zv1DM9.sTo$d?!kVkslOH7Io9hxQFiy@}6B)h$XT#p_]9R0x?M6)g;=K9)WGhA$#OihCw9?4j0-D.L),XPwDUa%91:7^S]XG%*CK,mvQWnd5r_w=%J9SURCr%8pMDK%3p!e%ujei5*i}re-?5Xm.T2[ptcdj?[5}S0zF[H_]V/bU3EgK]rTQf!yS2jk^9A7I(5=3{x)iOf_j3h)Z7*gB17*ge+F[L@WV/hoqV/eq3*^2qDmyMBh*mSS:l2I2UiQFr?jpbt]=R4F/qL?W$Y?sE@EK+_(Ej4BlS4Yeuu8x;RhB^(v8S02x#McqCh[54Nk,D,DBAoNNi[Q5QGL:m5t43NlFfj12U{Zm-yTjS}CT)%H:3k$z4RmBIo;I52;ds:T(Z+mqZ$R3ju)6,o?H3hf9:pX{q/7oW@/IgdUdgt,l5NU+lGf]cG}L$iIN9#7vMDHwSv#_)J{l9v(1[x=e[G^fy.p3dYO]0X!AJ1*-H1DJW?u6rL(ql3FTKrIq*YpX;u}u?a/dB*GiQU5q{cA%Ya9x{tUlgv4t-eI6OxiJ;e$:WVaXMRU77GwJU!YUQ:v/BZC[E^EziHU0PMQjYcGC)(y}oae]t6BUMmWHOUdiFb*D}X+Gpk5BZY163hQ;c:2JFzdzswr1-BcuKI}nM.?8$Y)2)jN))62Fe#@_D^$1m?ixf=7YrG:y+uR*AK^pZ5X6/rUUin?L*%Cv$j^VJw1$71+L(xSZKOwG_jKk4wuCao?k{[RitNAOGq%qnq-YMo096dspG8Nk.cymrKf4j.}FI619wf)WOlU0%.IB(w9j4gY_W.t4I-M01L;hobK9fh?!ZfiGWu2?Kmc{3g3D)I!C/+eh*T?}5SErY6xtF!;;fEJLe@=MApeR8#YD0:}P(FrvrR(2A]dsedUznsi!E%^F{3ZNG?w24oKs;Na+tsF=T%BF!DOlm^0GA}sfOHjFVX+qvj9JuBj8DR+UTNZR!IxN}XLpBVv]^89wfyc$0V$5Q(%JExk124(6a.:,7jY8RPE^Gb]idyU(X%YNv$x7:RdC/[1O$l8qUSO^%ySu+wC@I*%%{+44SW;+T,ibo-Jwch5MzO(WnU_dDQkK]NHlUo#vjbP(m1a{DbwHJII8H7VzuL.TW8FkMUYfc}8V,iqf*0vWlEcFG]Sc1-HuADKikj5#Hu^Zgnd7CxtGUu!u.m^-=;mg]7*GSNH5?q!OKACZ$x[!*4D5l!$xLHs:g?d=QXHO^6ooy=P))/.(0Y/px8T5nu5;EOAiU!z/H8;0TLZ6gc)Hfq!QIg?DAPT?a7/,0zQP]Sh%4!,Kd9/zdVKHRVo!HqluiF(g2lR$fnseX-b670mLg0wJr,0U-kg6yuVAsN=f7KFXHE[e9QPmg9}l-N@$,=3W%j@KOi0m:!$GzMjTwC.pxm;0ti$S%icMqH;K5uGw,;(Ua-Flo=r;U@rUyd}#ff!XoEG-/]}7}Qr@[Ln#tFUzYdPwC9)LM:O^ls}Kz.FQe?wToZuffq-2t4eTtZ8$Q@z$!.H:5UoH_8Vn*b=@6kzERd]]jEEw}^=-LLRQ,nZr6lQ3vbsKaO6vVCl[(D!l+59Y4_Yjs(OoLmPRWwD[rWlVYk4N0W3Nds^0!5B*rD(U/6hZ5s=#3^VfVmd2h9ulKt8q@r;#=zoW9hFi0Cnlj@(zaOb0oAg=ONe$Qp^GjYEU)V;FcngXvvSgvHl8l9Pi};dp_,U_O-h@TEdJo=iqeYArBBSIOXE5JwZbY@(TXyM./wsg:w?([0@zZ7bmCQRJtDM#Fx1]-FGvo[-f)O+BDOiY[EwumTru@cHf:4{psm@#U9^_8*Vi#NE(pr@s:Lr.x-80]3N.7/8^Y_P/+hWZ*eEME7+M[jMHa@hr?($b.c#QAy3az)iKA$MS/s{*i89m[mNLY4N5d1$H#OdISi+1rSzI(2e2*iXVfLs$8WN]q.Sbn(3b=Sct+3$jZ@8,diq4CySz1fOJy@=I(E+$zX%GmjE)!#eW_@99*23AXG=Lk#o_/kAE6$/VklD(rdYiV:7r8,cReD:#r7yhu@lB:-THVwRe=]@I9m1b@fJ2frS.B(_8VicGs$O*tp-o:Fias=XoI$YDGer$.3Dw,ITFq@Zt;!(FrPbV}tLDsA#9YP;s5Y(PA/#QCfMgOFy91JRW:ReW4QjqiP.*sBm+T9?AkEk2a5.^)y}{m1wN)r?X0uj(VypP1.=]GN#jUTlid$c8-4(lybO+LMamyy%1:l/2Zu(0z0DX__p=m4OX]9YDm.;0yH:{c}xmUAs[7(MhUMJ_{+)6]V@IPXLYy.{/c_vi,X$CM}cd5;!l#,lOH]NjjH@Jh?+@rxXY[l!kK^^18,tU1ITcGQv97)(=(9/{i1UJs(X4^:EqkI,eWcj1RVkU!_bcrA6U6+Cb)$QfN=$MzcU{-Tdp#V$Ez[Jako0xOs-TcxHPpq/]6NVUL.+c1Dv3AGNm@c{Xi5*CrO6gPeA$z7wt9T=So@Ved3%6N4-ql)Ks62VU3PNB2pXE;NuMR@=-BS1DG}4Q,S;)%2RNJf.^S3aPyHb;wO5t}kf_Znp=9ki:!qISi9Qx%,u/0VRp?,n=Vx*MjK)o_Plk.V4u3M_kyp1Y([WoW(F?-llcn$P*3%xyTCZ#CA$:fpKgKgPn*Na8kC*y6zKAo8ffr)jE%+.dO%#5psnUO1-8SK*lnwm?%Q$tJzQ^yTzH7:PVPp:Y/iE*+fm.wyFN;p/LY-C+v[;3selsF1zW[E7dFgqJ(XC-E+Ys2ciRjp3z!cA^,;a.d=;$0tljc+P=0mY.lw*wFGu1.#v8J@d]:sdZF1qM1)F*,_A*dK@]l;-A_#}yGmkWfly!F8U[c,N*v[h{bRKP?k(S;T{gMNQx!xez!A:%y%NHgFKqO#_IaKo?x7n((._F9S_/il(:Wi*j^E$bCf^ScoeG7TPS(r{zqih0KM)LSW2HKqDVm$Su;^J5?eNP##7JyIg;gF@}^fLI,[u4GdQZOhjbUybtk7=p,L=ahhkG/^6W{l@M+_H[z:u:[u8ZGElX]%yU3V=T]B-Y[)4Fq_MsZv.MtgaU+vy!gj4iMPb;Zc00{C:%@r$*QT((94*RhZ{eqJ)0Dy-d=[4*+CO/E36@f$lJ2#axEZc[/2V$Ko+9Zr2^vxfJbzM_4Q{*LZkmP=s-pmFiEXdxS,r8MuD8;FRxZyf6,:.D?;y@M:Ij!zzKxfDHkhh44BIjq6V,%lF?95j6x4b*7-^+5,5z#,15xE!vtJRJ)k13=Um}0%Kj350AgypYsEu_{JKK]e4THS+uz=/r:Y9C$8d2Za10,Mvvo}{=Lh#1!gYSO0]dlu(Cpg$Z8YPV6vQtIG]G=Za!.sbcS1)foWXh3hpA:+{ycHSP]kZ!n3m1hOH)VDWK^;5tyK-8_e5U,qCGZoOVkeU/WXhjRqQbCKNC2knDI[XPfSV[wSr]@]FnmqT(qe@J++!bg=Dm^fP9tHbl(GhX$c58LRQxpHUjqDRU{+d[.9rJkPp4,+o)6n(D#@kEF(P$#dMb$[e:3QJp9TEufd487wR3iU[QovazX17rJm,?0wiiw)fx:3:7YnD8!0.9I@o.gYl01xhDoFvRa2iR0j(d4F9!41!m%u0_ixgn,@bvy:CYxFWeq?6N#!xuTgvjZ6FX9uG55Ok_%]:1M8RGGpXT0VakGk5/hT6Z)*wjzBdfH=pAA:Ep/IAyrbDiDVXs]eJa$eGWj6QHtT@SBUJ+,1m6ce!-b*QRxxOkY,u[*V44WkbcY,F/,ESa*s#a/}UB?@(*NpmUdWph9srLx}#pBf6+,wT/YUi^zNjoyxL.W=9*o802NP3jq8y%p1Q#s@nOX+XOw*JcDa[R^yz^q!N0=;}XT]PbF8cm_!7,XNPF,tyXf*Cidxb)y^cGTc:.*3hr=beYP9Obz-;@?=U4ZWEzZZT#cF#Mc:k:ALqEC-N$.ow!UD+G;=3r.Bgc]blAFev4sM[gF9cXhi=nU]XtbLL(?@8hs^bDear?/N;?Ie!OO;T5guj+GrQ^S;K6IwppAf,havDKDckD7b6#9I8@7]aB09^S=/z,!@#$--wW6Kbe-vMK{Y(eZ::rihacG.Swb1+YnOLm.OL.c-+.rd;k{Rlc9rx03!v918,u?@j*r!bSvTUrar[:Ffp*/%9kAnHO91}]t?yXw(whLNYHHF[30Uy2qdQ07ZP,Z9eI_#*(YA@OMC#Es3.q@D.?hz+-Swwr:]lj+XF1Ze:pnld[-:V8iy.@:U;s1HsPR5YKHjJLUe02B8ZhQ3QDb_OLTpbJhQ.wTV0:%RDsen/mO[o:nVYA.n4LVv?,4{@PEv@3nVYA.[=$e)=UXqsJ_}^1s;bKc?q?8Ad5qCX*L5LP5Q^U%560c)F(=LEP}vU@H?Uc+Iesw4rV)Rr5.evqDa6;!?q[U,jTmQB:9PGwGGB/NsqzCbX)PteB+ses@D2A.(CMekm}#M:1sGzIjn?HY6MVzJ%]Y+SyBN$*]A+pgI$}vmOLU-5jNf]5=st1-nv1.(FtiwkP:KKt7-{?gB]]9.$Ql=KU/g-2hXXpCh7JdGN=;Gwku?,fzz^/T9RtuYXy[P#P6;/+FtP=l1^lJZ)BXj(uc5.Ooe}%sU{O!93@2r4LdOVnj2b#dpi:?P1B_SJky%^Lt!#Yz^OXKvR{;v?aP,KiVr+3gw-qvY8yz}_([Qtpb+^ICpoWQ6xfCqRK7Bra=z{S;;(q)GV3hsFPv6]#=W%7Q=!a;m,PW,(,mW85a/jzq3WeM3-jnT4OFmqz8c8I7Hn88;h,X74z33W[V=8vSrSe^,Gu*hCL0[8X(t8mdXJ--hu?yKAha9!O?$pqLO*KgWJi+XVVigTjDgC#RU0MypRI1LmhF#K2*yUAnwe8Z2tI.l3W}s%H8e%Xe#pA0oV$_iZ)KH+Z)6]8-v5Z]AZu9+4b!avtNpY1MXqhZFT4/v,]WCUD/pg]Xo6s6Zq]XNdq--=Mh8?+%@R}}]J^,TV@Zf0N?SYptJvYL8-o*WOTi/waBk15p)7{zMgG(rL+!srYM!;/1fP*)W2R8x@ZUh_M2spSAaBvL,4z_8AvyP@R]s2PCkYXqqW5%S;zUDgO8/Rqf*8$R^GPqQM8m4@BJdj1]vTJ68-pavmaQ6@y5u$z=pndcJ=WYIn!{Jh6OpoX^@lm5Q[n9MZQ)Ia8biTTOdd_[bYCtqzUJZY9o.f%EpLOU#*!Pscs?_K)g9.D!;$O#IpYk?*eX92,cAx4kQCKDSDX-pr3i;bAeac(KpJD,duHoOeau5l(i)mk+qq?%PN6;L}=6]=LuOD!$JqYYeh9jYlWBtmHWBt0[)fIb[g,flWb:T@);Y.UWgx?K8FRRf#*g!(Gld]RcPO3f$$^a%qeU^qALvO[tr_G9GLQgLYtgvrVR?!^MZ;JvW^csKHdZ;q;clw80u?]9h!V;m5@;H3D!eP(JtIT4Scv#F5qQopAq%;v.i%SA9xQ_[lOM=AYaa?us0Aunlust-p7oi7*=,iywuWMk}J{Q8b4TMwoQE[GWQ2_WGAalw-Dw!,0j_yO+dow8esEDELJ{MvZ!@.L]AC,t/yN=QBWS.QKJ{RJ=,ehWPRq2s4J7hn_#]J{o/UtQ0JGlz=A(+Q@fBkR*3?wHs6kw/ZhWa[V1V#oJSpy;j4B/-Xa6pIC)BXhi35+OdvIa(57-A?*V+ok@4IKl{DS=pzM%KW^07Li@Iy{)fHFWqw9N-r;[5f_^0ovFDwEp%0DS.KA,L#U8m/].R4P3L=K(2Iae#2#Rqdji8Y[3n2O^Ix]X:CTZ#=FV0oe%4H:fiq6r5hUvH#QJ%Y#]J$)HA!M-fy)ejlK8lZ126(HveTKF3d).n73[Q7@Mw[*iA_NiztaphCUWZo^6SLE+GR_WCs3;ipz^NS:ayp@iN:(!Xjb_qw)d2q0FytvK7s]7BMwdK.z$/tG.!zRTA8=!s.dq(OHRzFg-=))-ZUq@bz]}Zl(_V7D9feg}gYCCkA,gD.Fy{lp+vP1_+YRF6H24H,-k%3[!?tKLZa#yW{F:96-IS[@++PVIi-%OMs83TH,xSBPxE%MM,jx^43CRBMtc10e:zj^t8m)fbPqxuZ2k.8oNTw%I::!M!W2GVnlEH7,fdm/Me_%^k#],bCBuB)86MX6S7P76ET6Den13Wk:-ttqV6@@7?3y9aOWYd0Hd7rNp/qo.N;uIaJ(U_$6-Ew#HEB9mx:6GLX5LRto:Yc7has?k+gqRoaia}Asyk51JSSC@p#-QN7D9KnBs$QjnWYs)(@]A)9PH1*Jjm9mtO-8erKhXK%{R2g#R{X-PC%MSAw2ppA@_,V}QVxD??1f6FU8D0o{Z#l=D30tD?q0ruh5.04@8BLcgjMhI#.i%ql_)42OEs91[6gPb4Vcy_crO(QxLdII#M{O/$b$Wf!M_6:wvlD4n2@PCpZ%o2S-SaZXlY[cwvn+KYda;^?nlcC,IAFkEpOqY0gUejjx6qxDss$tvvLeH$Six83Z.x$I$Ak235!3*eKAqBA:ESV1?L,tyWaK3Rp]DPZ-ZH,@v}djREB22dY=;nZxP@xx[9@Bm}ri_ea6f36C/-v)B^!-}[=)tzUhLi%a7IE,g!4rk4w40B+bm)+FE1m6elf5ap)n3p)WEk7EqlE.sM^+5**QumUylwz%-@z)PX^XaHLOXc)UDOUU2+=4]cw)5gcb5%b#R;x!aFi$m(mL0#dW6aOdG)Ar+:rY;[8Ch;%;mso(sYsrN;!MBq2XNned!ve@d;-!s]u.W7QrD8S1kBKn;LfS-,#hb3mdfXG6zD)N:!+L,eU5(Neq5KC3;iJM:0##)QjvTDuIF[UJPX]@vSCG1K95fU^V%M!mK.mc)kJ11K[_hNf%}sEOiShS[$8qK@,s3RPth0Yr_D.Onf)MZ]fDZ-hj1py;;l]TR)C](LQU=]MEI/Tzv+YI9pU%=0Y{fS/N"
-myscript=decodeFunction(zeref_script)()
+local TABLE_VERSION = 22
+local approvedID = ""
+local accessGranted = false
+
+
+function resetToggleBox()
+    for i = 1, 24 do
+        local toggleboxName = "CEToggleBox" .. i
+        if UDF1[toggleboxName] then
+            UDF1[toggleboxName].checked = false
+        end
+    end
+end
+
+
+
+
+function checkUpdate()
+
+local version_url = "https://raw.githubusercontent.com/VOLDIGOADx/MOD-VERSION-NUM/main/ZEREF%20MOD%20VERSION.txt"
+local tableLink_url = "https://raw.githubusercontent.com/VOLDIGOADx/MOD-VERSION-NUM/main/MOD%20LINK.txt"
+local tablePasswordLink_url = "https://raw.githubusercontent.com/VOLDIGOADx/MOD-VERSION-NUM/main/PASSWORD.txt"
+local approvedID_url = "https://voldigoad-dashboard.vercel.app/api/hwids/cached"
+
+
+
+local http_version = getInternet()
+local version_result = http_version.getURL(version_url)
+http_version.destroy()
+
+
+local http_tableLink = getInternet()
+local tableLink_url_result = http_tableLink.getURL(tableLink_url)
+http_tableLink.destroy()
+
+
+local http_approvedID = getInternet()
+approvedID = http_approvedID.getURL(approvedID_url)
+http_approvedID.destroy()
+
+
+if version_result then
+  local version = tonumber(version_result:match("%d+"))
+  if version == 0 then
+    local answer = messageDialog("Zeref mod tool is currently updating and not available.\nPlease Stay Tuned for the update!\n\nWould you like to be forwarded to our server channel ?", mtInformation, mbYes, mbNo)
+    if answer == mrYes then
+      ShellExecute("https://discord.com/channels/853619521142390784/896466356994723921")
+      os.exit()
+    else
+    os.exit()
+    end
+  end
+  if TABLE_VERSION < version then
+    local answer = messageDialog("There is a newer version of this table.\nPlease download it to be able to use mod!", mtWarning, mbYes, mbNo)
+    if answer == mrYes then
+      ShellExecute(tablePasswordLink_url)
+      ShellExecute(tableLink_url_result)
+      os.exit()
+    else
+    os.exit()
+    end
+  end
+else
+  messageDialog("Please Make Sure You Are Connected To Internet!\nProgram Will Shutdown..", mtError, mbOK)
+  os.exit()
+end
+end
+
+checkUpdate()
+
+
+
+function formdrag1d8101()
+UDF1.dragNow()
+end
+
+function closeform1d8101()
+os.exit()
+end
+
+
+
+
+function formdrag2d8101()
+UDF1.dragNow()
+end
+
+function closeform2d8101()
+os.exit()
+end
+
+
+-- Function to generate a fixed device ID using PowerShell to get the UUID
+function generateDeviceID()
+    -- Use PowerShell to get the UUID
+    local file = io.popen('powershell -Command "Get-WmiObject -Class Win32_ComputerSystemProduct | Select-Object -ExpandProperty UUID"')
+    local uuid = file:read("*a")
+    file:close()
+    return uuid:match("%S+"):gsub("-", "")  -- Extract and format device ID
+end
+
+-- Your specific approved device ID
+--local approvedID = "30444335383254305144BCE92F7EDE90"  -- Replace with your approved ID without hyphens
+
+-- Create a new form
+local form = createForm(false)
+form.Caption = 'Device ID Access'
+form.Width = 400
+form.Height = 200
+
+-- Create a new CEEdit box named CEEdit1
+local CEEdit1 = createEdit(form)
+CEEdit1.Name = 'CEEdit1'
+CEEdit1.Left = 20
+CEEdit1.Top = 50
+CEEdit1.Width = 360
+CEEdit1.Text = generateDeviceID()  -- Display generated device ID in CEEdit1
+writeToClipboard(ansiToUtf8(CEEdit1.Text))
+CEEdit1.ReadOnly = true  -- Ensure CEEdit1 is read-only
+
+-- Function to show a message box
+function showMessage(msg)
+    messageDialog(msg, mtInformation, mbOK)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Function to check access based on input in CEEdit1
+function checkAccess()
+    local deviceID = CEEdit1.Text  -- Get device ID from CEEdit1
+    local accessGranted = false    -- default to false
+
+    -- Check if the device ID is approved
+    if string.find(approvedID, deviceID) then
+        accessGranted = true
+    end
+
+    if accessGranted then
+        -- Enable the main trainer form
+        if UDF1 then
+            UDF1.Enabled = true
+        end
+
+        showMessage("Access granted. Trainer is loading...")
+
+        -- Here you can call any additional initialization code for the trainer
+    else
+        -- Freeze the main trainer form
+        if UDF1 then
+            UDF1.Enabled = false
+        end
+
+        -- Create the "Access Denied" popup
+        local denyForm = createForm(true)  -- modal = true
+        denyForm.Caption = "Access Denied"
+        denyForm.Width = 605
+        denyForm.Height = 220
+        denyForm.Position = "poScreenCenter"
+
+        -- If user closes the popup with the X button, close the whole trainer
+        denyForm.OnClose = function()
+            os.exit()
+        end
+
+        -- Message label
+        local msgLabel = createLabel(denyForm)
+        msgLabel.Caption = "This device is not approved.\n\nYour User ID is shown below. Please send this ID to "
+        msgLabel.Left = 20
+        msgLabel.Top = 20
+        msgLabel.Width = 340
+        msgLabel.Height = 40
+
+        -- Clickable contact label
+        local contactLabel = createLabel(denyForm)
+        contactLabel.Caption = "ZEREF VOLDIGOAD"
+        contactLabel.Left = msgLabel.Left + msgLabel.Width
+        contactLabel.Top = msgLabel.Top + 50
+        contactLabel.Font.Style = "fsUnderline"
+        contactLabel.Font.Color = 0x0000FF
+        contactLabel.Cursor = -21
+        contactLabel.OnClick = function()
+            local contactForm = createForm(true)
+            contactForm.Caption = "Contact Options"
+            contactForm.Width = 300
+            contactForm.Height = 220
+            contactForm.Position = "poScreenCenter"
+
+            local discordBtn = createButton(contactForm)
+            discordBtn.Caption = "Discord"
+            discordBtn.Left = 80
+            discordBtn.Top = 20
+            discordBtn.Width = 120
+            discordBtn.OnClick = function()
+                ShellExecute("https://discord.com/users/819518873643646976")
+            end
+
+            local gmailBtn = createButton(contactForm)
+            gmailBtn.Caption = "Gmail"
+            gmailBtn.Left = 80
+            gmailBtn.Top = 60
+            gmailBtn.Width = 120
+            gmailBtn.OnClick = function()
+                ShellExecute("https://mail.google.com/mail/u/0/?to=voldigoadzeref@gmail.com&su=Access+Request&body=Hello,+I+want+access+to+your+zeref_voldigoad_mod_tool&fs=1&tf=cm")
+            end
+
+            local whatsappBtn = createButton(contactForm)
+            whatsappBtn.Caption = "WhatsApp"
+            whatsappBtn.Left = 80
+            whatsappBtn.Top = 100
+            whatsappBtn.Width = 120
+            whatsappBtn.OnClick = function()
+                ShellExecute("https://api.whatsapp.com/send/?phone=905075638741&text=Hello%2C+I+want+access+to+your+zeref_voldigoad_mod_tool&type=phone_number&app_absent=0")
+            end
+
+            local instaBtn = createButton(contactForm)
+            instaBtn.Caption = "Instagram"
+            instaBtn.Left = 80
+            instaBtn.Top = 140
+            instaBtn.Width = 120
+            instaBtn.OnClick = function()
+                ShellExecute("https://www.instagram.com/sosultane/")
+            end
+        end
+
+        -- Show the device ID in a read-only box
+        local idBox = createEdit(denyForm)
+        idBox.Text = deviceID
+        idBox.Left = 20
+        idBox.Top = 100
+        idBox.Width = 570
+        idBox.ReadOnly = true
+
+        -- Auto-copy once
+        writeToClipboard(ansiToUtf8(deviceID))
+
+        -- Copy button
+        local copyButton = createButton(denyForm)
+        copyButton.Caption = "Copy ID"
+        copyButton.Left = 140
+        copyButton.Top = 160
+        copyButton.Width = 100
+        copyButton.OnClick = function()
+            writeToClipboard(ansiToUtf8(deviceID))
+            showMessage("User ID copied to clipboard!")
+        end
+
+        -- Close button (closes whole trainer)
+        local closeButton = createButton(denyForm)
+        closeButton.Caption = "Close"
+        closeButton.Left = 260
+        closeButton.Top = 160
+        closeButton.Width = 100
+        closeButton.OnClick = function()
+            os.exit()
+        end
+
+        denyForm.show()
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Create a button to trigger access check
+local checkButton = createButton(form)
+checkButton.Caption = "Check Access"
+checkButton.Left = 150
+checkButton.Top = 100
+checkButton.OnClick = checkAccess
+
+-- Show the form
+if accessGranted ~= true then
+--form.show()
+end
+
+-- Perform initial access check on form launch
+checkAccess()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Ensure the GUI is shown by default
+UDF1.show()
+
+-- Define the original button color
+local originalButtonColor = 0x00212121
+
+-- Function to reset CECustomButtons to default state
+function resetTrainerGUI()
+    for i = 1, 29 do
+        local buttonName = "CECustomButton" .. i
+        local button = UDF1[buttonName]
+        if button then
+            button.buttoncolor = originalButtonColor
+        end
+    end
+end
+
+-- Function to play the 'loading.wav' sound file
+function playLoadingSound()
+    -- Attempt to find and play the sound file
+    local soundFile = findTableFile('loading.wav')
+    if soundFile then
+        playSound(soundFile)
+    else
+        print('Sound file "loading.wav" not found')
+    end
+end
+
+
+
+
+function attach()
+    local GameID = getProcessIDFromProcessName("BleachBraveSouls.exe")
+    if GameID ~= getOpenedProcessID() and GameID ~= nil then
+        resetToggleBox()
+        openProcess("BleachBraveSouls.exe")
+        UDF1.hide()
+        resetTrainerGUI()
+        playLoadingSound()
+        local hideTimer = createTimer(nil, false)
+        hideTimer.OnTimer = function()
+            UDF1.show()
+            hideTimer.destroy()
+        end
+        hideTimer.Interval = 8000
+        hideTimer.Enabled = true
+    end
+end
+
+
+local function tryEnableMono()
+    if getOpenedProcessID() == 0 then
+        return false
+    end
+
+    local success, result = pcall(function()
+        return LaunchMonoDataCollector()
+    end)
+
+    if success and result ~= 0 then
+        return true
+    end
+
+    return false
+end
+
+
+
+
+
+
+-- Function to reset the trainer GUI and play the loading sound when GUI is hidden
+function onHide()
+    resetTrainerGUI()
+    playLoadingSound() -- Play the loading sound
+end
+
+-- Register onHide function to execute when GUI is hidden
+UDF1.OnHide = onHide
+
+-- Timer to continuously check for the game process and reset GUI when game is not running
+local checkGameTimer = createTimer(nil, false)
+timer_onTimer(checkGameTimer, checkGameStatus)
+timer_setInterval(checkGameTimer, 5000)  -- Check every 5 seconds
+timer_setEnabled(checkGameTimer, true)
+
+-- Timer to continuously check for the game process and attach when detected
+local attachTimer = createTimer(nil, false)
+timer_onTimer(attachTimer, attach)
+timer_setInterval(attachTimer, 4000)
+timer_setEnabled(attachTimer, true)
+
+
+
+
+
+
+
+
+function runGameOnClick(sender)
+    shellExecute('steam://rungameid/1201240')
+end
+
+
+
+
+
+local attachedTime = os.time() -- Record the time when the game is attached
+local enableCloseFunctionTime = attachedTime + 5 -- Enable close function 30 seconds after game attachment
+
+function closeGameWithCmd()
+    local currentTime = os.time()
+    if currentTime < enableCloseFunctionTime then
+        -- If the current time is before the enable time, return without closing the game
+        return
+    end
+    local processName = "BleachBraveSouls.exe"
+    local command = 'taskkill /F /IM "' .. processName .. '"'
+    local hiddenCmd = 'cmd.exe /C "' .. command .. '" >nul 2>&1'
+    os.execute(hiddenCmd)
+end
+
+function closeGameWithCmdOnClick(sender)
+    closeGameWithCmd()
+end
+
+
+
+
+
+
+
+
+-- Function to configure the minimize action for CEPanel1
+function configureMinimizePanel()
+  -- Reference your custom panel
+  local minimizePanel = UDF1.CEPanel1
+
+  -- Ensure the panel exists
+  if minimizePanel then
+    -- Set the panel's OnClick event to minimize the form
+    minimizePanel.OnClick = function()
+      UDF1.WindowState = 'wsMinimized'
+    end
+  end
+end
+
+-- Call the function to configure the minimize panel
+configureMinimizePanel()
+
+
+
+
+
+
+function onCustomButton1Click()
+  -- Check the current color of CustomButton2 and toggle it
+  if UDF1.CECustomButton1.buttoncolor == 0x212121 then
+    UDF1.CECustomButton1.buttoncolor = 0xD36F70
+  else
+    UDF1.CECustomButton1.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox1
+  UDF1.CEToggleBox1.checked = not UDF1.CEToggleBox1.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton1
+UDF1.CECustomButton1.OnClick = onCustomButton1Click
+
+
+
+
+
+
+
+
+-- Flag to track if CustomButton2 is clicked
+local customButton2Clicked = false
+
+-- Function to update button enable/disable state based on CustomButton2
+local function updateButtonStates()
+  local enableButtons = not customButton2Clicked
+  UDF1.CECustomButton8.enabled = enableButtons
+  UDF1.CECustomButton9.enabled = enableButtons
+  UDF1.CECustomButton10.enabled = enableButtons
+  UDF1.CECustomButton11.enabled = enableButtons
+end
+
+-- Function for CustomButton2 click event
+function onCustomButton2Click()
+  -- Toggle the color of CustomButton2
+  if UDF1.CECustomButton2.buttoncolor == 0x212121 then
+    UDF1.CECustomButton2.buttoncolor = 0xD36F70
+  else
+    UDF1.CECustomButton2.buttoncolor = 0x212121
+  end
+
+  -- Toggle the checked state of ToggleBox2
+  UDF1.CEToggleBox2.checked = not UDF1.CEToggleBox2.checked
+
+  -- Update the flag and enable/disable state of other buttons
+  customButton2Clicked = not customButton2Clicked
+  updateButtonStates()
+end
+
+-- Assign the function to the OnClick event of CustomButton2
+UDF1.CECustomButton2.OnClick = onCustomButton2Click
+
+-- Function for CustomButton8 click event
+function onCustomButton8Click()
+  if customButton2Clicked then
+    return  -- Do nothing if CustomButton2 is clicked
+  end
+  -- Your existing logic for CustomButton8 click
+end
+
+-- Assign the function to the OnClick event of CustomButton8
+UDF1.CECustomButton8.OnClick = onCustomButton8Click
+
+-- Function for CustomButton9 click event
+function onCustomButton9Click()
+  if customButton2Clicked then
+    return  -- Do nothing if CustomButton2 is clicked
+  end
+  -- Your existing logic for CustomButton9 click
+end
+
+-- Assign the function to the OnClick event of CustomButton9
+UDF1.CECustomButton9.OnClick = onCustomButton9Click
+
+-- Function for CustomButton10 click event
+function onCustomButton10Click()
+  if customButton2Clicked then
+    return  -- Do nothing if CustomButton2 is clicked
+  end
+  -- Your existing logic for CustomButton10 click
+end
+
+-- Assign the function to the OnClick event of CustomButton10
+UDF1.CECustomButton10.OnClick = onCustomButton10Click
+
+-- Function for CustomButton11 click event
+function onCustomButton11Click()
+  if customButton2Clicked then
+    return  -- Do nothing if CustomButton2 is clicked
+  end
+  -- Your existing logic for CustomButton11 click
+end
+
+-- Assign the function to the OnClick event of CustomButton11
+UDF1.CECustomButton11.OnClick = onCustomButton11Click
+
+
+
+
+
+
+
+
+
+
+function onCustomButton3Click()
+  -- Check the current color of CustomButton3 and toggle it
+  if UDF1.CECustomButton3.buttoncolor == 0x212121 then
+    UDF1.CECustomButton3.buttoncolor = 0xD36F70
+  else
+    UDF1.CECustomButton3.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox3
+  UDF1.CEToggleBox3.checked = not UDF1.CEToggleBox3.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton3
+UDF1.CECustomButton3.OnClick = onCustomButton3Click
+
+
+
+
+
+
+
+
+
+function onCustomButton4Click()
+  -- Check the current color of CustomButton4 and toggle it
+  if UDF1.CECustomButton4.buttoncolor == 0x212121 then
+    UDF1.CECustomButton4.buttoncolor = 0xD36F70
+  else
+    UDF1.CECustomButton4.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox4
+  UDF1.CEToggleBox4.checked = not UDF1.CEToggleBox4.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton4
+UDF1.CECustomButton4.OnClick = onCustomButton4Click
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function onCustomButton5Click()
+  -- Check the current color of CustomButton5 and toggle it
+  if UDF1.CECustomButton5.buttoncolor == 0x212121 then
+    UDF1.CECustomButton5.buttoncolor = 0x85A032
+  else
+    UDF1.CECustomButton5.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox5
+  UDF1.CEToggleBox5.checked = not UDF1.CEToggleBox5.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton5
+UDF1.CECustomButton5.OnClick = onCustomButton5Click
+
+
+
+
+
+
+function onCustomButton6Click()
+  -- Check the current color of CustomButton6 and toggle it
+  if UDF1.CECustomButton6.buttoncolor == 0x212121 then
+    UDF1.CECustomButton6.buttoncolor = 0x85A032
+  else
+    UDF1.CECustomButton6.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox6
+  UDF1.CEToggleBox6.checked = not UDF1.CEToggleBox6.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton6
+UDF1.CECustomButton6.OnClick = onCustomButton6Click
+
+
+
+
+
+function onCustomButton7Click()
+  -- Check the current color of CustomButton7 and toggle it
+  if UDF1.CECustomButton7.buttoncolor == 0x212121 then
+    UDF1.CECustomButton7.buttoncolor = 0x85A032  -- Change to desired color value
+  else
+    UDF1.CECustomButton7.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox7
+  UDF1.CEToggleBox7.checked = not UDF1.CEToggleBox7.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton7
+UDF1.CECustomButton7.OnClick = onCustomButton7Click
+
+
+
+
+
+function onCustomButton26Click()
+  -- Check the current color of CustomButton26 and toggle it
+  if UDF1.CECustomButton26.buttoncolor == 0x212121 then
+    UDF1.CECustomButton26.buttoncolor = 0x85A032  -- Change to desired color value
+  else
+    UDF1.CECustomButton26.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox8
+  UDF1.CEToggleBox8.checked = not UDF1.CEToggleBox8.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton26
+UDF1.CECustomButton26.OnClick = onCustomButton26Click
+
+
+
+
+
+
+
+
+
+
+
+function onCustomButton27Click()
+  -- Check the current color of CustomButton27 and toggle it
+  if UDF1.CECustomButton27.buttoncolor == 0x212121 then
+    UDF1.CECustomButton27.buttoncolor = 0x85A032  -- Change to desired color value
+  else
+    UDF1.CECustomButton27.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox9
+  UDF1.CEToggleBox9.checked = not UDF1.CEToggleBox9.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton27
+UDF1.CECustomButton27.OnClick = onCustomButton27Click
+
+
+
+
+
+
+
+
+function onCustomButton8Click()
+  -- Check the current color of CustomButton8 and toggle it
+  if UDF1.CECustomButton8.buttoncolor == 0x212121 then
+    UDF1.CECustomButton8.buttoncolor = 0x2E84A5  -- Change to desired color value
+  else
+    UDF1.CECustomButton8.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox10
+  UDF1.CEToggleBox10.checked = not UDF1.CEToggleBox10.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton8
+UDF1.CECustomButton8.OnClick = onCustomButton8Click
+
+
+
+
+function onCustomButton9Click()
+  -- Check the current color of CustomButton9 and toggle it
+  if UDF1.CECustomButton9.buttoncolor == 0x212121 then
+    UDF1.CECustomButton9.buttoncolor = 0x38389A  -- Change to desired color value
+  else
+    UDF1.CECustomButton9.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox11
+  UDF1.CEToggleBox11.checked = not UDF1.CEToggleBox11.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton9
+UDF1.CECustomButton9.OnClick = onCustomButton9Click
+
+
+
+
+
+
+
+
+
+function onCustomButton10Click()
+  -- Check the current color of CustomButton10 and toggle it
+  if UDF1.CECustomButton10.buttoncolor == 0x212121 then
+    UDF1.CECustomButton10.buttoncolor = 0x38389A  -- Change to desired color value
+  else
+    UDF1.CECustomButton10.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox12
+  UDF1.CEToggleBox12.checked = not UDF1.CEToggleBox12.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton10
+UDF1.CECustomButton10.OnClick = onCustomButton10Click
+
+
+
+
+
+
+
+
+function onCustomButton11Click()
+  -- Check the current color of CustomButton11 and toggle it
+  if UDF1.CECustomButton11.buttoncolor == 0x212121 then
+    UDF1.CECustomButton11.buttoncolor = 0x38389A  -- Change to desired color value
+  else
+    UDF1.CECustomButton11.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox13
+  UDF1.CEToggleBox13.checked = not UDF1.CEToggleBox13.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton11
+UDF1.CECustomButton11.OnClick = onCustomButton11Click
+
+
+
+
+function onCustomButton12Click()
+  -- Check the current color of CustomButton12 and toggle it
+  if UDF1.CECustomButton12.buttoncolor == 0x212121 then
+    UDF1.CECustomButton12.buttoncolor = 0xD271A2  -- Change to desired color value
+  else
+    UDF1.CECustomButton12.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox14
+  UDF1.CEToggleBox14.checked = not UDF1.CEToggleBox14.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton12
+UDF1.CECustomButton12.OnClick = onCustomButton12Click
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function onCustomButton14Click()
+  -- Check the current color of CustomButton14 and toggle it
+  if UDF1.CECustomButton14.buttoncolor == 0x212121 then
+    UDF1.CECustomButton14.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton14.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox15
+  UDF1.CEToggleBox15.checked = not UDF1.CEToggleBox15.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton14
+UDF1.CECustomButton14.OnClick = onCustomButton14Click
+
+
+
+
+function onCustomButton15Click()
+  -- Check the current color of CustomButton15 and toggle it
+  if UDF1.CECustomButton15.buttoncolor == 0x212121 then
+    UDF1.CECustomButton15.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton15.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox16
+  UDF1.CEToggleBox16.checked = not UDF1.CEToggleBox16.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton15
+UDF1.CECustomButton15.OnClick = onCustomButton15Click
+
+
+
+
+function onCustomButton16Click()
+  -- Check the current color of CustomButton16 and toggle it
+  if UDF1.CECustomButton16.buttoncolor == 0x212121 then
+    UDF1.CECustomButton16.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton16.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox17
+  UDF1.CEToggleBox17.checked = not UDF1.CEToggleBox17.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton16
+UDF1.CECustomButton16.OnClick = onCustomButton16Click
+
+
+
+
+
+function onCustomButton17Click()
+  -- Check the current color of CustomButton17 and toggle it
+  if UDF1.CECustomButton17.buttoncolor == 0x212121 then
+    UDF1.CECustomButton17.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton17.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox18
+  UDF1.CEToggleBox18.checked = not UDF1.CEToggleBox18.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton17
+UDF1.CECustomButton17.OnClick = onCustomButton17Click
+
+
+
+
+
+
+function onCustomButton18Click()
+  -- Check the current color of CustomButton18 and toggle it
+  if UDF1.CECustomButton18.buttoncolor == 0x212121 then
+    UDF1.CECustomButton18.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton18.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox19
+  UDF1.CEToggleBox19.checked = not UDF1.CEToggleBox19.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton18
+UDF1.CECustomButton18.OnClick = onCustomButton18Click
+
+
+
+
+
+function onCustomButton19Click()
+  -- Check the current color of CustomButton19 and toggle it
+  if UDF1.CECustomButton19.buttoncolor == 0x212121 then
+    UDF1.CECustomButton19.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton19.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox20
+  UDF1.CEToggleBox20.checked = not UDF1.CEToggleBox20.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton19
+UDF1.CECustomButton19.OnClick = onCustomButton19Click
+
+
+
+
+
+
+function onCustomButton31Click()
+  -- Check the current color of CustomButton31 and toggle it
+  if UDF1.CECustomButton31.buttoncolor == 0x212121 then
+    UDF1.CECustomButton31.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton31.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox21
+  UDF1.CEToggleBox21.checked = not UDF1.CEToggleBox21.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton31
+UDF1.CECustomButton31.OnClick = onCustomButton31Click
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function onCustomButton21Click()
+  -- Check the current color of CustomButton21 and toggle it
+  if UDF1.CECustomButton21.buttoncolor == 0x212121 then
+    UDF1.CECustomButton21.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton21.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox22
+  UDF1.CEToggleBox22.checked = not UDF1.CEToggleBox22.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton21
+UDF1.CECustomButton21.OnClick = onCustomButton21Click
+
+
+
+
+
+
+
+
+
+
+
+function onCustomButton22Click()
+  -- Check the current color of CustomButton22 and toggle it
+  if UDF1.CECustomButton22.buttoncolor == 0x212121 then
+    UDF1.CECustomButton22.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton22.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox23
+  UDF1.CEToggleBox23.checked = not UDF1.CEToggleBox23.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton22
+UDF1.CECustomButton22.OnClick = onCustomButton22Click
+
+
+
+
+function onCustomButton23Click()
+  -- Check the current color of CustomButton23 and toggle it
+  if UDF1.CECustomButton23.buttoncolor == 0x212121 then
+    UDF1.CECustomButton23.buttoncolor = 0x777777  -- Change to desired color value
+  else
+    UDF1.CECustomButton23.buttoncolor = 0x212121
+  end
+
+  -- Simulate a click on ToggleBox24
+  UDF1.CEToggleBox24.checked = not UDF1.CEToggleBox24.checked
+end
+
+-- Assign the function to the OnClick event of CustomButton23
+UDF1.CECustomButton23.OnClick = onCustomButton23Click
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function showDialog()
+    showMessage('This mod is made by: zeref voldigoad                                🆉🅴🆁🅴🅵 🆅🅾🅻🅳🅸🅶🅾🅰🅳                                           contributers:       Turbo☢—「☬」 - mrdarkflame')
+end
+
+
+
+
+function openYouTube()
+    shellExecute('https://discord.gg/x6u7JjWxAw')
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Define global variables to store disable info GOD MODE
+local SCRIPT_1_disableInfo, SCRIPT_2_disableInfo, SCRIPT_3_disableInfo, SCRIPT_4_disableInfo
+local SCRIPT_5_disableInfo, SCRIPT_6_disableInfo, SCRIPT_7_disableInfo, SCRIPT_8_disableInfo
+local SCRIPT_9_disableInfo, SCRIPT_10_disableInfo, SCRIPT_11_disableInfo
+
+function ToggleBox1Click(sender)
+
+    local script1 = [[
+{ Game   : BleachBraveSouls.exe invincible     Bleach.Games.QuestBattle.Characters.CharaBase.InvincibleRoutine
+  Version:
+  Date   : 2024-05-26
+  Author : Mohammed
+
+  This script does blah blah blah
+}
+
+define(address,Bleach.Games.QuestBattle.Characters.CharaBase.InvincibleRoutine+3B)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.QuestBattle.Characters.CharaBase.InvincibleRoutine+3B)
+
+label(code)
+label(return)
+label(invinsiblePlayer)
+
+newmem:
+  cmp byte ptr [rbx+39],01    //IsPlayerSide
+  je invinsiblePlayer
+  cmp byte ptr [rbx+39],01    //IsPlayerSide
+  jne code
+
+invinsiblePlayer:
+  mov [rbx+00000270],(float)1
+  movss xmm6,[rbx+00000270]
+  jmp return
+
+code:
+  movss xmm6,[rbx+00000270]
+  jmp return
+
+address:
+  jmp newmem
+  nop 3
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.CharaBase.InvincibleRoutine+3B:
+movss xmm6,[rbx+00000270]
+//Alt: db F3 0F 10 B3 70 02 00 00
+    ]]
+
+
+
+
+
+    local script4 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidSuperArmor
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidSuperArmor)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidSuperArmor:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidSuperArmor:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 28 48 8B 41 20
+    ]]
+
+    local script5 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat INVA GUARD     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidGuard
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidGuard)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidGuard:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsInvalidGuard:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 28 48 8B 41 20
+    ]]
+
+local script6 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 20
+    ]]
+
+local script7 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+local script8 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+local script9 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+local script10 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat BLIND RESIST  Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_BlindResistRate
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_BlindResistRate)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_BlindResistRate:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_BlindResistRate:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 28 48 8B 41 28
+    ]]
+
+local script11 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+//Alt: db 40 53 48 83 EC 30
+    ]]
+
+local script17 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    -- Check if ToggleBox1 is checked
+    if sender.Checked then
+        -- Enable scripts
+        local SCRIPT_1_enabledOk
+        SCRIPT_1_enabledOk, SCRIPT_1_disableInfo = autoAssemble(script1)
+        if not SCRIPT_1_enabledOk then
+            local message = "Error enabling script 1"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_2_enabledOk
+        SCRIPT_2_enabledOk, SCRIPT_2_disableInfo = autoAssemble(script2)
+        if not SCRIPT_2_enabledOk then
+            local message = "Error enabling script 2"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_3_enabledOk
+        SCRIPT_3_enabledOk, SCRIPT_3_disableInfo = autoAssemble(script3)
+        if not SCRIPT_3_enabledOk then
+            local message = "Error enabling script 3"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_4_enabledOk
+        SCRIPT_4_enabledOk, SCRIPT_4_disableInfo = autoAssemble(script4)
+        if not SCRIPT_4_enabledOk then
+            local message = "Error enabling script 4"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_5_enabledOk
+        SCRIPT_5_enabledOk, SCRIPT_5_disableInfo = autoAssemble(script5)
+        if not SCRIPT_5_enabledOk then
+            local message = "Error enabling script 5"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_6_enabledOk
+        SCRIPT_6_enabledOk, SCRIPT_6_disableInfo = autoAssemble(script6)
+        if not SCRIPT_6_enabledOk then
+            local message = "Error enabling script 6"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_7_enabledOk
+        SCRIPT_7_enabledOk, SCRIPT_7_disableInfo = autoAssemble(script7)
+        if not SCRIPT_7_enabledOk then
+            local message = "Error enabling script 7"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_8_enabledOk
+        SCRIPT_8_enabledOk, SCRIPT_8_disableInfo = autoAssemble(script8)
+        if not SCRIPT_8_enabledOk then
+            local message = "Error enabling script 8"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_9_enabledOk
+        SCRIPT_9_enabledOk, SCRIPT_9_disableInfo = autoAssemble(script9)
+        if not SCRIPT_9_enabledOk then
+            local message = "Error enabling script 9"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_10_enabledOk
+        SCRIPT_10_enabledOk, SCRIPT_10_disableInfo = autoAssemble(script10)
+        if not SCRIPT_10_enabledOk then
+            local message = "Error enabling script 10"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_11_enabledOk
+        SCRIPT_11_enabledOk, SCRIPT_11_disableInfo = autoAssemble(script11)
+        if not SCRIPT_11_enabledOk then
+            local message = "Error enabling script 11"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_17_enabledOk
+        SCRIPT_17_enabledOk, SCRIPT_17_disableInfo = autoAssemble(script17)
+        if not SCRIPT_17_enabledOk then
+            local message = "Error enabling script 17"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable scripts
+        if SCRIPT_1_disableInfo then
+            local SCRIPT_1_disabledOk = autoAssemble(script1, SCRIPT_1_disableInfo)
+            if SCRIPT_1_disabledOk then
+                SCRIPT_1_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_2_disableInfo then
+            local SCRIPT_2_disabledOk = autoAssemble(script2, SCRIPT_2_disableInfo)
+            if SCRIPT_2_disabledOk then
+                SCRIPT_2_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_3_disableInfo then
+            local SCRIPT_3_disabledOk = autoAssemble(script3, SCRIPT_3_disableInfo)
+            if SCRIPT_3_disabledOk then
+                SCRIPT_3_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_4_disableInfo then
+            local SCRIPT_4_disabledOk = autoAssemble(script4, SCRIPT_4_disableInfo)
+            if SCRIPT_4_disabledOk then
+                SCRIPT_4_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_5_disableInfo then
+            local SCRIPT_5_disabledOk = autoAssemble(script5, SCRIPT_5_disableInfo)
+            if SCRIPT_5_disabledOk then
+                SCRIPT_5_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_6_disableInfo then
+            local SCRIPT_6_disabledOk = autoAssemble(script6, SCRIPT_6_disableInfo)
+            if SCRIPT_6_disabledOk then
+                SCRIPT_6_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_7_disableInfo then
+            local SCRIPT_7_disabledOk = autoAssemble(script7, SCRIPT_7_disableInfo)
+            if SCRIPT_7_disabledOk then
+                SCRIPT_7_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_8_disableInfo then
+            local SCRIPT_8_disabledOk = autoAssemble(script8, SCRIPT_8_disableInfo)
+            if SCRIPT_8_disabledOk then
+                SCRIPT_8_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_9_disableInfo then
+            local SCRIPT_9_disabledOk = autoAssemble(script9, SCRIPT_9_disableInfo)
+            if SCRIPT_9_disabledOk then
+                SCRIPT_9_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_10_disableInfo then
+            local SCRIPT_10_disabledOk = autoAssemble(script10, SCRIPT_10_disableInfo)
+            if SCRIPT_10_disabledOk then
+                SCRIPT_10_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_11_disableInfo then
+            local SCRIPT_11_disabledOk = autoAssemble(script11, SCRIPT_11_disableInfo)
+            if SCRIPT_11_disabledOk then
+                SCRIPT_11_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_17_disableInfo then
+            local SCRIPT_17_disabledOk = autoAssemble(script17, SCRIPT_17_disableInfo)
+            if SCRIPT_17_disabledOk then
+                SCRIPT_17_disableInfo = nil
+            end
+        end
+
+
+    end
+end
+
+
+
+
+
+
+-- Define global variables to store disable info   NERF ENEMIES
+local SCRIPT_12_disableInfo, SCRIPT_13_disableInfo, SCRIPT_14_disableInfo, SCRIPT_15_disableInfo, SCRIPT_17_disableInfo
+
+function ToggleBox2Click(sender)
+
+    local script12 = [[
+[ENABLE]
+alloc(newmem,2048,Bleach.Games.QuestBattle.UI.CharacterStatus.set_HP+78)            //Bleach.Games.QuestBattle.UI.CharacterStatus.set_HP
+label(returnhere)
+label(originalcode)
+label(enemies)
+label(exit)
+
+newmem:
+    cmp byte ptr [rbx+B9],01   // IsPlayerSide check         Bleach.Games.TeamBattleCore.UI.CharacterThumbnailUI.SetVisibleEndureHp
+    je originalcode
+    jne enemies
+
+enemies:
+    mov dword ptr [rbx+80],1   // Force enemy HP to 1         x   Bleach.Games.QuestBattle.UI.CharacterStatus.get_HPMax
+    jmp originalcode
+
+originalcode:
+    mov r9d,[rbx+00000080]     // Original instruction
+    jmp exit
+
+exit:
+    jmp returnhere
+
+Bleach.Games.QuestBattle.UI.CharacterStatus.set_HP+78:
+    jmp newmem
+    nop 2
+returnhere:
+
+[DISABLE]
+dealloc(newmem)
+Bleach.Games.QuestBattle.UI.CharacterStatus.set_HP+78:
+    mov r9d,[rbx+00000080]
+// Alt: db 44 8B 8B 80 00 00 00
+    ]]
+
+    local script13 = [[
+{ Game   : BleachBraveSouls.exe
+  Version:
+  Date   : 2024-05-23
+  Author : YT_SyntaXError305
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(Temp,GameAssembly.dll,66 0F 6E 41 50) // should be unique
+alloc(newmem,$100,Temp)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov [rcx+50],#1 //d xmm0
+  jmp return
+
+Temp:
+  jmp newmem
+return:
+registersymbol(Temp)
+
+[DISABLE]
+
+Temp:
+  db 66 0F 6E 41 50
+
+unregistersymbol(Temp)
+dealloc(newmem)
+
+
+    ]]
+
+    local script14 = [[
+define(address,Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.CoEnemyAi.BaseUpdate+76)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.CoEnemyAi.BaseUpdate+76)
+
+label(code)
+label(return)
+label(Aibattle)
+
+newmem:
+  pushf
+  mov rdi,[rcx+58]                            //Jackpot.Web.WebViewSteam.set_Logger   Jackpot.Web.UIWebView.get_Viewport
+  cmp byte ptr [rcx+00000151],00             //IsFollowTargetCamera    Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.CoEnemyAi.BaseUpdate      XXXXX  AdjustSdk.JSONNode.Deserialize
+  je Aibattle
+  jmp code
+
+Aibattle:
+  //cmp byte ptr [onehitkills],1
+  //jne code
+  mov [rdi+0000050],#10                  //hp      Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.EnemyAi.set_CurrentEffectiveRangeState    Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.EnemyAi.get_CurrentEffectiveRangeState
+  mov [rdi+0000054],#10                  //hpmax   Bleach.Games.RaidQuest.Characters.RaidEnemyActionScenario.set_LocalWaveCount           Bleach.Model.TeamBattleEnemyInfoModel.get_Rank
+  jmp code
+
+code:
+  popf
+  mov ecx,[rcx+000002A8]
+  jmp return
+
+address:
+  jmp newmem
+  nop
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.CoQuestBattle.Core.Characters.Enemies.AI.CoEnemyAi.BaseUpdate+76:
+mov ecx,[rcx+000002A8]
+//Alt: db 8B 89 A8 02 00 00
+    ]]
+
+    local script15 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                 Bleach.Games.RaidQuest.Characters.RaidEnemyAction.Start
+alloc(newmem,2048,Bleach.Games.RaidQuest.Characters.RaidEnemyAction.Start)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+nop
+nop
+nop
+xor edx,edx
+
+exit:
+jmp returnhere
+
+Bleach.Games.RaidQuest.Characters.RaidEnemyAction.Start:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.RaidQuest.Characters.RaidEnemyAction.Start:
+ret
+nop
+nop
+nop
+xor edx,edx
+//Alt: db C6 41 20 01 33 D2
+    ]]
+
+    local script17 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    -- Check if ToggleBox2 is checked
+    if sender.Checked then
+        -- Enable scripts
+        local SCRIPT_12_enabledOk
+        SCRIPT_12_enabledOk, SCRIPT_12_disableInfo = autoAssemble(script12)
+        if not SCRIPT_12_enabledOk then
+            local message = "Error enabling script 12"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_13_enabledOk
+        SCRIPT_13_enabledOk, SCRIPT_13_disableInfo = autoAssemble(script13)
+        if not SCRIPT_13_enabledOk then
+            local message = "Error enabling script 13"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_14_enabledOk
+        SCRIPT_14_enabledOk, SCRIPT_14_disableInfo = autoAssemble(script14)
+        if not SCRIPT_14_enabledOk then
+            local message = "Error enabling script 14"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_15_enabledOk
+        SCRIPT_15_enabledOk, SCRIPT_15_disableInfo = autoAssemble(script15)
+        if not SCRIPT_15_enabledOk then
+            local message = "Error enabling script 15"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_17_enabledOk
+        SCRIPT_17_enabledOk, SCRIPT_17_disableInfo = autoAssemble(script17)
+        if not SCRIPT_17_enabledOk then
+            local message = "Error enabling script 17"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable scripts
+        if SCRIPT_12_disableInfo then
+            local SCRIPT_12_disabledOk = autoAssemble(script12, SCRIPT_12_disableInfo)
+            if SCRIPT_12_disabledOk then
+                SCRIPT_12_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_13_disableInfo then
+            local SCRIPT_13_disabledOk = autoAssemble(script13, SCRIPT_13_disableInfo)
+            if SCRIPT_13_disabledOk then
+                SCRIPT_13_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_14_disableInfo then
+            local SCRIPT_14_disabledOk = autoAssemble(script14, SCRIPT_14_disableInfo)
+            if SCRIPT_14_disabledOk then
+                SCRIPT_14_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_15_disableInfo then
+            local SCRIPT_15_disabledOk = autoAssemble(script15, SCRIPT_15_disableInfo)
+            if SCRIPT_15_disabledOk then
+                SCRIPT_15_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_17_disableInfo then
+            local SCRIPT_17_disabledOk = autoAssemble(script17, SCRIPT_17_disableInfo)
+            if SCRIPT_17_disabledOk then
+                SCRIPT_17_disableInfo = nil
+            end
+        end
+
+
+    end
+end
+
+
+
+
+
+-- Define global variables to store disable info   TIME SPOOF
+local SCRIPT_16_disableInfo, SCRIPT_17_disableInfo, SCRIPT_18_disableInfo
+
+function ToggleBox3Click(sender)
+
+    local script16 = [[
+define(address,Bleach.Menus.Quest.QuestRecords.UpdateQuestBattleClearedTime+8)
+
+[ENABLE]
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Menus.Quest.QuestRecords.UpdateQuestBattleClearedTime+8)
+label(code)
+label(return)
+label(float59)
+
+newmem:
+  mov [float59],0x426C0000  // 59.0 in float         Bleach.Menus.Quest.QuestRecords.UpdateQuestBattleClearedTime
+  movss xmm1,[float59]
+  movss [rcx+00000094],xmm1
+  jmp return
+
+float59:
+  dd 426C0000
+
+code:
+  movss [rcx+00000094],xmm1
+  jmp return
+
+address:
+  jmp newmem
+  nop 3
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Menus.Quest.QuestRecords.UpdateQuestBattleClearedTime+8:
+movss [rcx+00000094],xmm1
+//Alt: db F3 0F 11 89 94 00 00 00
+
+    ]]
+
+    local script17 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    local script18 = [[
+{ Game   : BleachBraveSouls.exe
+  Version:
+  Date   : 2024-06-06
+  Author : Mohammed
+
+  This script does blah blah blah                       Bleach.Games.RaidQuest.UI.RaidUIController.UpdateTimeCount
+}
+
+define(address,Bleach.Games.RaidQuest.UI.RaidUIController.UpdateTimeCount+6)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.RaidQuest.UI.RaidUIController.UpdateTimeCount+6)
+
+label(code)
+label(return)
+
+newmem:
+  mov [rcx+150],(float)120                    //Pointing To Full Address To Get elapsedTime 0x130  synch time
+  cmp byte ptr [rcx+30],00
+  mov rbx,rcx
+  jmp return
+
+code:
+  cmp byte ptr [rcx+30],00
+  mov rbx,rcx
+  jmp return
+
+address:
+  jmp newmem
+  nop 2
+return:
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.RaidQuest.UI.RaidUIController.UpdateTimeCount+6:
+cmp byte ptr [rcx+30],00
+mov rbx,rcx
+//Alt: db 80 79 30 00 48 8B D9
+{
+// ORIGINAL CODE - INJECTION POINT: GameAssembly.dll+F0F276
+
+GameAssembly.dll+F0F261: 48 83 C4 30     - add rsp,30
+GameAssembly.dll+F0F265: 5B              - pop rbx
+GameAssembly.dll+F0F266: C3              - ret
+GameAssembly.dll+F0F267: E8 24 03 33 FF  - call GameAssembly.DllGetActivationFactory+76D0
+GameAssembly.dll+F0F26C: CC              - int 3
+GameAssembly.dll+F0F26D: CC              - int 3
+GameAssembly.dll+F0F26E: CC              - int 3
+GameAssembly.dll+F0F26F: CC              - int 3
+Bleach.Games.RaidQuest.UI.UIController.UpdateTimeCount: 40 53           - push rbx
+GameAssembly.dll+F0F272: 48 83 EC 40     - sub rsp,40
+// ---------- INJECTING HERE ----------
+GameAssembly.dll+F0F276: 80 79 30 00     - cmp byte ptr [rcx+30],00
+// ---------- DONE INJECTING  ----------
+GameAssembly.dll+F0F27A: 48 8B D9        - mov rbx,rcx
+GameAssembly.dll+F0F27D: 74 74           - je GameAssembly.dll+F0F2F3
+GameAssembly.dll+F0F27F: 0F 29 74 24 30  - movaps [rsp+30],xmm6
+GameAssembly.dll+F0F284: 0F 29 7C 24 20  - movaps [rsp+20],xmm7
+GameAssembly.dll+F0F289: F3 0F 10 71 34  - movss xmm6,[rcx+34]
+GameAssembly.dll+F0F28E: 33 D2           - xor edx,edx
+GameAssembly.dll+F0F290: E8 CB 00 00 00  - call Bleach.Games.RaidQuest.UI.UIController.get_ProgressTime
+GameAssembly.dll+F0F295: 4C 8B 03        - mov r8,[rbx]
+GameAssembly.dll+F0F298: F3 0F 5C F0     - subss xmm6,xmm0
+GameAssembly.dll+F0F29C: 0F 57 FF        - xorps xmm7,xmm7
+}
+    ]]
+
+    -- Check if ToggleBox3 is checked
+    if sender.Checked then
+        -- Enable scripts
+        local SCRIPT_16_enabledOk
+        SCRIPT_16_enabledOk, SCRIPT_16_disableInfo = autoAssemble(script16)
+        if not SCRIPT_16_enabledOk then
+            local message = "Error enabling script 16"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_17_enabledOk
+        SCRIPT_17_enabledOk, SCRIPT_17_disableInfo = autoAssemble(script17)
+        if not SCRIPT_17_enabledOk then
+            local message = "Error enabling script 17"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_18_enabledOk
+        SCRIPT_18_enabledOk, SCRIPT_18_disableInfo = autoAssemble(script18)
+        if not SCRIPT_18_enabledOk then
+            local message = "Error enabling script 18"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable scripts
+        if SCRIPT_16_disableInfo then
+            local SCRIPT_16_disabledOk = autoAssemble(script16, SCRIPT_16_disableInfo)
+            if SCRIPT_16_disabledOk then
+                SCRIPT_16_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_17_disableInfo then
+            local SCRIPT_17_disabledOk = autoAssemble(script17, SCRIPT_17_disableInfo)
+            if SCRIPT_17_disabledOk then
+                SCRIPT_17_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_18_disableInfo then
+            local SCRIPT_18_disabledOk = autoAssemble(script18, SCRIPT_18_disableInfo)
+            if SCRIPT_18_disabledOk then
+                SCRIPT_18_disableInfo = nil
+            end
+        end
+    end
+end
+
+
+
+
+
+
+-- Define global variables to store disable info   ULTIMATE SPEED
+local SCRIPT_19_disableInfo, SCRIPT_20_disableInfo, SCRIPT_21_disableInfo, SCRIPT_22_disableInfo,
+      SCRIPT_23_disableInfo, SCRIPT_24_disableInfo, SCRIPT_25_disableInfo, SCRIPT_26_disableInfo,
+      SCRIPT_27_disableInfo, SCRIPT_28_disableInfo
+
+function ToggleBox4Click(sender)
+
+    local script19 = [[
+[ENABLE]
+
+// --- HOOK 1 --- AbilityEnhancement.get_IsHitHiddenEnemyProb
+alloc(newmem1,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb)
+label(returnhere1)
+
+newmem1:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+jmp returnhere1
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+jmp newmem1
+nop 3
+returnhere1:
+
+
+// --- HOOK 2 --- CharaBase.BaseUpdate+303
+alloc(newmem2,2048,Bleach.Games.QuestBattle.Characters.CharaBase.BaseUpdate+303)
+label(returnhere2)
+
+newmem2:
+mov dword ptr [rdx+64],41C00000
+movss xmm1,[rdx+64]
+jmp returnhere2
+
+Bleach.Games.QuestBattle.Characters.CharaBase.BaseUpdate+303:
+jmp newmem2
+returnhere2:
+
+
+// --- HOOK 3 --- AbilityEnhancement.get_NormalAtkSpeedUpRate+D
+alloc(newmem3,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_NormalAtkSpeedUpRate+D)
+alloc(myvalue,8)
+label(returnhere3)
+
+myvalue:
+dq (double)5.0
+
+newmem3:
+movsd xmm0,[myvalue]
+jmp returnhere3
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_NormalAtkSpeedUpRate+D:
+jmp newmem3
+nop 3
+returnhere3:
+
+
+[DISABLE]
+
+// --- RESTORE HOOK 1 ---
+dealloc(newmem1)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+// --- RESTORE HOOK 2 ---
+dealloc(newmem2)
+Bleach.Games.QuestBattle.Characters.CharaBase.BaseUpdate+303:
+movss xmm1,[rdx+64]
+
+// --- RESTORE HOOK 3 ---
+dealloc(newmem3)
+dealloc(myvalue)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_NormalAtkSpeedUpRate+D:
+movsd xmm0,[rax+00000198]
+]]
+
+    local script20 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    local script21 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat  Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+15A
+alloc(newmem,2048,Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+15A)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+jmp Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+18F
+jmp Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+12B
+je Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+446
+
+
+exit:
+jmp returnhere
+
+Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+15A:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+15A:
+je Bleach.Menus.CharacterTheater.CharacterTheaterController.Update+446
+//Alt: db 48 8B 47 50 48 85 C0
+    ]]
+
+    local script22 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat               //Bleach.Games.QuestBattle.Characters.AttackCoolTime.Charge
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AttackCoolTime.Charge+62)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+mov [rbx+40],(float)616 //ss xmm0
+
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AttackCoolTime.Charge+62:
+jmp newmem
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AttackCoolTime.Charge+62:
+movss [rbx+40],xmm1
+//Alt: db F3 0F 11 4B 40
+    ]]
+
+local script23 = [[
+define(address,Bleach.Games.QuestBattle.PlayerController.UpdateMove+237)
+
+[ENABLE]
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.QuestBattle.PlayerController.UpdateMove+237)
+
+label(code)
+label(return)
+label(playermovementspd)
+
+newmem:
+  cmp byte ptr [rcx+39],01    //IsPlayerSide  Bleach.Games.QuestBattle.PlayerController.UpdateMove+237
+  jne code
+  je playermovementspd
+
+
+playermovementspd:
+  push eax
+  mov eax,(float)140.0
+  mov [rcx+000003E4],eax
+  pop eax
+  mov eax,[rcx+000003E4]
+  jmp return
+
+code:
+  mov eax,[rcx+000003E4]
+  jmp return
+
+address:
+  jmp newmem
+  nop
+return:
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.PlayerController.UpdateMove+237:
+mov eax,[rax+000003E4]
+//Alt: db 8B 80 E4 03 00 00
+    ]]
+
+local script24 = [[
+{ Game   : BleachBraveSouls.exe
+  Version:
+  Date   : 2024-05-25
+  Author : Mohammed
+
+  This script does blah blah blah          Bleach.Games.QuestBattle.AI.AutoModeAI.AutoModeMoveToTarget+2DF
+}
+
+define(address,Bleach.Games.QuestBattle.AI.AutoModeAI.AutoModeMoveToTarget+2DF)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.QuestBattle.AI.AutoModeAI.AutoModeMoveToTarget+2DF)
+
+label(code)
+label(return)
+
+newmem:
+ mov eax,(float)140.0
+  mov [rdi+00000450],eax
+  jmp return
+
+code:
+  mov eax,[rax+44]
+  mov [rdi+00000450],eax
+  jmp return
+
+address:
+  jmp newmem
+  nop 4
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.AI.AutoModeAI.AutoModeMoveToTarget+2DF:
+mov eax,[rax+44]
+mov [rdi+00000450],eax
+//Alt: db 8B 40 44 89 87 50 04 00 00
+    ]]
+
+local script25 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access           Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D
+//place your code here
+
+originalcode:
+mov [rcx+48],01 //ShapeType (Attack type)
+mov [rcx+4C],(float)1000 //ShapeRadius (Radius)
+mov [rcx+50],(float)360 //ShapeAngle (Direction (360 - in all directions))
+mov ecx,[rcx+48]
+sub ecx,01
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D:
+mov ecx,[rcx+48]
+sub ecx,01
+//Alt: db 8B 49 48 83 E9 01
+    ]]
+
+local script26 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat MOVEMENT ZEREF    Bleach.Games.Common.Masters.PlayableMaster.get_MovementSpeed
+alloc(newmem,2048,Bleach.Games.Common.Masters.PlayableMaster.get_MovementSpeed)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+mov eax,43480000 // 20.0 in hex (IEEE 754 format)
+movd xmm0,eax
+jmp exit
+
+originalcode:
+movss xmm0,[GameAssembly.dll+3CCE6F4]
+
+exit:
+jmp returnhere
+
+Bleach.Games.Common.Masters.PlayableMaster.get_MovementSpeed:
+jmp newmem
+nop 3
+returnhere:
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Common.Masters.PlayableMaster.get_MovementSpeed:
+movss xmm0,[GameAssembly.dll+3CCE6F4]
+//Alt: db F3 0F 10 05 D8 26 A3 02
+    ]]
+
+local script27 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,BulletControl.SetUp+16B)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access         BulletControl.SetUp+16B
+//place your code here
+
+originalcode:
+mov [rdx+6C],02 //ProjectileType (Attack type)
+mov [rdx+70],(float)1000 //ProjectileWidth (Attack width)
+mov [rdx+78],(float)1000 //ProjectileLength (Attack range)
+mov [rdx+84],(float)1000 //ProjectileImpactRadius (Attack radius)
+mulss xmm1,[rdx+74]
+
+exit:
+jmp returnhere
+
+BulletControl.SetUp+16B:
+jmp newmem
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+BulletControl.SetUp+16B:
+mulss xmm1,[rdx+74]
+//Alt: db F3 0F 59 4A 74
+    ]]
+
+local script28 = [[
+///////////////
+// ENABLE
+///////////////
+
+[ENABLE]
+
+// ---------- HOOK 1 ----------
+alloc(newmem1,2048,Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45)             //Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45
+label(return1)
+label(originalcode1)
+label(exit1)
+
+newmem1:
+
+originalcode1:
+    mov [rbx+60],(float)500000      // Shape Radius            Bleach.Games.Common.Characters.Status.StatusRevivalTimerBehaviour.set_Time
+    mov [rbx+64],(float)360         // Shape Angle             Bleach.Games.QuestBattle.Animations.MotionEvent.set_VariationIndex
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+exit1:
+    jmp return1
+
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45:
+    jmp newmem1
+    nop 2
+return1:
+
+// ---------- HOOK 2 ----------                          Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77
+alloc(newmem2,2048,Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77)
+label(return2)
+label(originalcode2)
+label(exit2)
+
+newmem2:
+
+originalcode2:
+    mov [rbx+6C],(float)900000          // Length          Bleach.Games.QuestBattle.Animations.MotionEvent.set_AdventAnimationLoop
+    mov [rbx+68],(float)900000          // Width           Bleach.Games.Common.Masters.CharacterAttackMaster.get_ReadyTime
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+exit2:
+    jmp return2
+
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77:
+    jmp newmem2
+    nop 2
+return2:
+
+
+
+///////////////
+// DISABLE
+///////////////
+
+[DISABLE]
+
+// --- Restore Hook 1 ---
+dealloc(newmem1)
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45:
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+// --- Restore Hook 2 ---
+dealloc(newmem2)
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77:
+    mov rcx,[rbx+18]
+    test rcx,rcx
+    ]]
+
+
+    -- Check if ToggleBox4 is checked
+    if sender.Checked then
+        -- Enable scripts
+        local SCRIPT_19_enabledOk
+        SCRIPT_19_enabledOk, SCRIPT_19_disableInfo = autoAssemble(script19)
+        if not SCRIPT_19_enabledOk then
+            local message = "Error enabling script 19"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_20_enabledOk
+        SCRIPT_20_enabledOk, SCRIPT_20_disableInfo = autoAssemble(script20)
+        if not SCRIPT_20_enabledOk then
+            local message = "Error enabling script 20"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_21_enabledOk
+        SCRIPT_21_enabledOk, SCRIPT_21_disableInfo = autoAssemble(script21)
+        if not SCRIPT_21_enabledOk then
+            local message = "Error enabling script 21"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_22_enabledOk
+        SCRIPT_22_enabledOk, SCRIPT_22_disableInfo = autoAssemble(script22)
+        if not SCRIPT_22_enabledOk then
+            local message = "Error enabling script 22"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_23_enabledOk
+        SCRIPT_23_enabledOk, SCRIPT_23_disableInfo = autoAssemble(script23)
+        if not SCRIPT_23_enabledOk then
+            local message = "Error enabling script 23"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_24_enabledOk
+        SCRIPT_24_enabledOk, SCRIPT_24_disableInfo = autoAssemble(script24)
+        if not SCRIPT_24_enabledOk then
+            local message = "Error enabling script 24"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_25_enabledOk
+        SCRIPT_25_enabledOk, SCRIPT_25_disableInfo = autoAssemble(script25)
+        if not SCRIPT_25_enabledOk then
+            local message = "Error enabling script 25"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_26_enabledOk
+        SCRIPT_26_enabledOk, SCRIPT_26_disableInfo = autoAssemble(script26)
+        if not SCRIPT_26_enabledOk then
+            local message = "Error enabling script 26"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_27_enabledOk
+        SCRIPT_27_enabledOk, SCRIPT_27_disableInfo = autoAssemble(script27)
+        if not SCRIPT_27_enabledOk then
+            local message = "Error enabling script 27"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_28_enabledOk
+        SCRIPT_28_enabledOk, SCRIPT_28_disableInfo = autoAssemble(script28)
+        if not SCRIPT_28_enabledOk then
+            local message = "Error enabling script 28"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable scripts
+        if SCRIPT_19_disableInfo then
+            local SCRIPT_19_disabledOk = autoAssemble(script19, SCRIPT_19_disableInfo)
+            if SCRIPT_19_disabledOk then
+                SCRIPT_19_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_20_disableInfo then
+            local SCRIPT_20_disabledOk = autoAssemble(script20, SCRIPT_20_disableInfo)
+            if SCRIPT_20_disabledOk then
+                SCRIPT_20_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_21_disableInfo then
+            local SCRIPT_21_disabledOk = autoAssemble(script21, SCRIPT_21_disableInfo)
+            if SCRIPT_21_disabledOk then
+                SCRIPT_21_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_22_disableInfo then
+            local SCRIPT_22_disabledOk = autoAssemble(script22, SCRIPT_22_disableInfo)
+            if SCRIPT_22_disabledOk then
+                SCRIPT_22_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_23_disableInfo then
+            local SCRIPT_23_disabledOk = autoAssemble(script23, SCRIPT_23_disableInfo)
+            if SCRIPT_23_disabledOk then
+                SCRIPT_23_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_24_disableInfo then
+            local SCRIPT_24_disabledOk = autoAssemble(script24, SCRIPT_24_disableInfo)
+            if SCRIPT_24_disabledOk then
+                SCRIPT_24_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_25_disableInfo then
+            local SCRIPT_25_disabledOk = autoAssemble(script25, SCRIPT_25_disableInfo)
+            if SCRIPT_25_disabledOk then
+                SCRIPT_25_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_26_disableInfo then
+            local SCRIPT_26_disabledOk = autoAssemble(script26, SCRIPT_26_disableInfo)
+            if SCRIPT_26_disabledOk then
+                SCRIPT_26_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_27_disableInfo then
+            local SCRIPT_27_disabledOk = autoAssemble(script27, SCRIPT_27_disableInfo)
+            if SCRIPT_27_disabledOk then
+                SCRIPT_27_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_28_disableInfo then
+            local SCRIPT_28_disabledOk = autoAssemble(script28, SCRIPT_28_disableInfo)
+            if SCRIPT_28_disabledOk then
+                SCRIPT_28_disableInfo = nil
+            end
+        end
+    end
+end
+
+
+
+
+
+-- Define global variables to store disable info
+local SCRIPT_29_disableInfo, SCRIPT_30_disableInfo
+
+function ToggleBox5Click(sender)
+
+    local script29 = [[
+{ Game   : BleachBraveSouls.exe          Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC
+  Version:
+  Date   : 2024-05-25
+  Author : Mohammed
+
+  This script does blah blah blah
+}
+
+define(address,Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC)
+
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC)
+
+label(code)
+label(return)
+
+newmem:
+  movzx edx,byte ptr [rdi+00000210]
+  mov [rdi+00000060],#10                                        //Bleach.Model.CoQuestBattle.CoQuestBattleFinishResponse.get_Level
+  jmp return
+code:
+  movzx edx,byte ptr [rdi+00000210]
+  jmp return
+
+address:
+  jmp newmem
+  nop 2
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC:
+movzx edx,byte ptr [rdi+00000210]
+//Alt: db 0F B6 97 10 02 00 00
+    ]]
+
+    local script30 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    -- Check if ToggleBox5 is checked
+    if sender.Checked then
+        -- Enable scripts
+        local SCRIPT_29_enabledOk
+        SCRIPT_29_enabledOk, SCRIPT_29_disableInfo = autoAssemble(script29)
+        if not SCRIPT_29_enabledOk then
+            local message = "Error enabling script 29"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+        local SCRIPT_30_enabledOk
+        SCRIPT_30_enabledOk, SCRIPT_30_disableInfo = autoAssemble(script30)
+        if not SCRIPT_30_enabledOk then
+            local message = "Error enabling script 30"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable scripts
+        if SCRIPT_29_disableInfo then
+            local SCRIPT_29_disabledOk = autoAssemble(script29, SCRIPT_29_disableInfo)
+            if SCRIPT_29_disabledOk then
+                SCRIPT_29_disableInfo = nil
+            end
+        end
+
+        if SCRIPT_30_disableInfo then
+            local SCRIPT_30_disabledOk = autoAssemble(script30, SCRIPT_30_disableInfo)
+            if SCRIPT_30_disabledOk then
+                SCRIPT_30_disableInfo = nil
+            end
+        end
+    end
+end
+
+
+
+
+local SCRIPT_31_disableInfo, SCRIPT_32_disableInfo
+local timerScript31
+
+function ToggleBox6Click(sender)
+
+    local script31 = [[
+{ Game   : BleachBraveSouls.exe          Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC
+  Version:
+  Date   : 2024-05-25
+  Author : Mohammed
+
+  This script does blah blah blah
+}
+
+define(address,Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC)
+
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC)
+
+label(code)
+label(return)
+
+newmem:
+  movzx edx,byte ptr [rdi+00000210]
+  mov [rdi+00000060],#5                                        //Bleach.Model.CoQuestBattle.CoQuestBattleFinishResponse.get_Level
+  jmp return
+code:
+  movzx edx,byte ptr [rdi+00000210]
+  jmp return
+
+address:
+  jmp newmem
+  nop 2
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Menus.QuestStageSelect.Prepare.View.QuestStageSelectPrepareView.UpdateBoostApUi+1BC:
+movzx edx,byte ptr [rdi+00000210]
+//Alt: db 0F B6 97 10 02 00 00
+]]
+
+    local script32 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+
+     -- Check if ToggleBox6 is checked
+    if sender.Checked then
+        -- Enable script31
+        local SCRIPT_31_enabledOk
+        SCRIPT_31_enabledOk, SCRIPT_31_disableInfo = autoAssemble(script31)
+        if not SCRIPT_31_enabledOk then
+            local message = "Error enabling script 31"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+        -- Enable script32
+        local SCRIPT_32_enabledOk
+        SCRIPT_32_enabledOk, SCRIPT_32_disableInfo = autoAssemble(script32)
+        if not SCRIPT_32_enabledOk then
+            local message = "Error enabling script 32"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable script31 immediately if unchecked
+        if SCRIPT_31_disableInfo then
+            autoAssemble(script31, SCRIPT_31_disableInfo)
+            SCRIPT_31_disableInfo = nil
+        end
+
+        -- Disable script32 immediately if unchecked
+        if SCRIPT_32_disableInfo then
+            autoAssemble(script32, SCRIPT_32_disableInfo)
+            SCRIPT_32_disableInfo = nil
+        end
+
+        -- Stop and destroy the timer if it's running
+        if timerScript31 then
+            timerScript31.destroy()
+            timerScript31 = nil
+        end
+    end
+end
+
+
+
+
+
+
+local SCRIPT_32_disableInfo, SCRIPT_33_disableInfo, SCRIPT_34_disableInfo
+local timerScript32, timerScript33
+
+function ToggleBox7Click(sender)
+
+local script32 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,Bleach.Model.QuestRestrictionModel.IsElementRestriction+157)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+xor al,al
+jne Bleach.Model.QuestRestrictionModel.IsElementRestriction+168
+inc ebx
+
+exit:
+jmp returnhere
+
+Bleach.Model.QuestRestrictionModel.IsElementRestriction+157:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Model.QuestRestrictionModel.IsElementRestriction+157:
+xor al,al
+jne Bleach.Model.QuestRestrictionModel.IsElementRestriction+168
+inc ebx
+//Alt: db 84 C0 75 06 FF C3
+    ]]
+
+
+local script33 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,Bleach.Model.QuestRestrictionModel.IsLinkSlotLevelRestrictionzMaster+CD)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+xor al,dl
+jne Bleach.Model.QuestRestrictionModel.IsLinkSlotLevelRestrictionzMaster+301
+
+exit:
+jmp returnhere
+
+Bleach.Model.QuestRestrictionModel.IsLinkSlotLevelRestrictionzMaster+CD:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Model.QuestRestrictionModel.IsLinkSlotLevelRestrictionzMaster+CD:
+xor al,dl
+jne Bleach.Model.QuestRestrictionModel.IsLinkSlotLevelRestrictionzMaster+301
+//Alt: db 84 D0 0F 85 1D 02 00 00
+    ]]
+
+
+local script34 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+
+    -- Check if ToggleBox7 is checked
+    if sender.Checked then
+        -- Enable script32
+        local SCRIPT_32_enabledOk
+        SCRIPT_32_enabledOk, SCRIPT_32_disableInfo = autoAssemble(script32)
+        if not SCRIPT_32_enabledOk then
+            local message = "Error enabling script 32"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+        -- Start a timer to disable script32 after 1 second
+        timerScript32 = createTimer()
+        timerScript32.Interval = 1000 -- 1 second
+        timerScript32.OnTimer = function(timer)
+            if SCRIPT_32_disableInfo then
+                autoAssemble(script32, SCRIPT_32_disableInfo)
+                SCRIPT_32_disableInfo = nil
+            end
+            timer.destroy() -- Destroy the timer after execution
+        end
+        timerScript32.Enabled = true
+
+        -- Enable script33
+        local SCRIPT_33_enabledOk
+        SCRIPT_33_enabledOk, SCRIPT_33_disableInfo = autoAssemble(script33)
+        if not SCRIPT_33_enabledOk then
+            local message = "Error enabling script 33"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+        -- Start a timer to disable script33 after 1 second
+        timerScript33 = createTimer()
+        timerScript33.Interval = 1000 -- 1 second
+        timerScript33.OnTimer = function(timer)
+            if SCRIPT_33_disableInfo then
+                autoAssemble(script33, SCRIPT_33_disableInfo)
+                SCRIPT_33_disableInfo = nil
+            end
+            timer.destroy() -- Destroy the timer after execution
+        end
+        timerScript33.Enabled = true
+
+        -- Enable script34
+        local SCRIPT_34_enabledOk
+        SCRIPT_34_enabledOk, SCRIPT_34_disableInfo = autoAssemble(script34)
+        if not SCRIPT_34_enabledOk then
+            local message = "Error enabling script 34"
+            messageDialog(message, mtWarning, mbOK)
+        end
+
+    else
+        -- Disable script32 immediately if unchecked
+        if SCRIPT_32_disableInfo then
+            autoAssemble(script32, SCRIPT_32_disableInfo)
+            SCRIPT_32_disableInfo = nil
+        end
+
+        -- Disable script33 immediately if unchecked
+        if SCRIPT_33_disableInfo then
+            autoAssemble(script33, SCRIPT_33_disableInfo)
+            SCRIPT_33_disableInfo = nil
+        end
+
+        -- Disable script34 immediately if unchecked
+        if SCRIPT_34_disableInfo then
+            autoAssemble(script34, SCRIPT_34_disableInfo)
+            SCRIPT_34_disableInfo = nil
+        end
+
+        -- Stop and destroy the timers if they're running
+        if timerScript32 then
+            timerScript32.destroy()
+            timerScript32 = nil
+        end
+
+        if timerScript33 then
+            timerScript33.destroy()
+            timerScript33 = nil
+        end
+    end
+end
+
+
+
+local SCRIPT_35_disableInfo, SCRIPT_36_disableInfo, SCRIPT_37_disableInfo, SCRIPT_38_disableInfo, SCRIPT_39_disableInfo
+local timerScript37, timerScript38, timerScript39
+
+function ToggleBox8Click(sender)
+
+    local script35 = [[
+define(address,Bleach.Games.QuestBattle.Result.QuestResultViewController.Update+31F)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000,Bleach.Games.QuestBattle.Result.QuestResultViewController.Update+31F)
+
+label(code)
+label(return)
+
+newmem:
+  call Bleach.Games.QuestBattle.Result.QuestResultViewController.OnButtonRetry
+  nop
+  jmp return
+
+code:
+  call UnityEngine.MonoBehaviour.StartCoroutine
+  jmp return
+
+address:
+  jmp newmem
+return:
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Result.QuestResultViewController.Update+31F:
+call UnityEngine.MonoBehaviour.StartCoroutine
+//Alt: db E8 3C 3C 96 02
+]]
+
+    local script36 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+    local script37 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+    local script38 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+    local script38 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+
+    -- Check if ToggleBox8 is checked
+    if sender.Checked then
+        -- Enable script35
+        local SCRIPT_35_enabledOk
+        SCRIPT_35_enabledOk, SCRIPT_35_disableInfo = autoAssemble(script35)
+        if not SCRIPT_35_enabledOk then
+            return
+        end
+
+        -- Enable script36
+        local SCRIPT_36_enabledOk
+        SCRIPT_36_enabledOk, SCRIPT_36_disableInfo = autoAssemble(script36)
+        if not SCRIPT_36_enabledOk then
+            return
+        end
+
+        -- Enable script37
+        local SCRIPT_37_enabledOk
+        SCRIPT_37_enabledOk, SCRIPT_37_disableInfo = autoAssemble(script37)
+        if not SCRIPT_37_enabledOk then
+            return
+        end
+
+        -- Start a timer to disable script37 after 1 second
+        timerScript37 = createTimer()
+        timerScript37.Interval = 1000 -- 1 second
+        timerScript37.OnTimer = function(timer)
+            if SCRIPT_37_disableInfo then
+                autoAssemble(script37, SCRIPT_37_disableInfo)
+                SCRIPT_37_disableInfo = nil
+            end
+            timer.destroy() -- Destroy the timer after execution
+        end
+        timerScript37.Enabled = true
+
+        -- Enable script38
+        local SCRIPT_38_enabledOk
+        SCRIPT_38_enabledOk, SCRIPT_38_disableInfo = autoAssemble(script38)
+        if not SCRIPT_38_enabledOk then
+            return
+        end
+
+        -- Start a timer to disable script38 after 1 second
+        timerScript38 = createTimer()
+        timerScript38.Interval = 1000 -- 1 second
+        timerScript38.OnTimer = function(timer)
+            if SCRIPT_38_disableInfo then
+                autoAssemble(script38, SCRIPT_38_disableInfo)
+                SCRIPT_38_disableInfo = nil
+            end
+            timer.destroy() -- Destroy the timer after execution
+        end
+        timerScript38.Enabled = true
+
+        -- Enable script39
+        local SCRIPT_39_enabledOk
+        SCRIPT_39_enabledOk, SCRIPT_39_disableInfo = autoAssemble(script39)
+        if not SCRIPT_39_enabledOk then
+            return
+        end
+
+        -- Start a timer to disable script39 after 1 second
+        timerScript39 = createTimer()
+        timerScript39.Interval = 1000 -- 1 second
+        timerScript39.OnTimer = function(timer)
+            if SCRIPT_39_disableInfo then
+                autoAssemble(script39, SCRIPT_39_disableInfo)
+                SCRIPT_39_disableInfo = nil
+            end
+            timer.destroy() -- Destroy the timer after execution
+        end
+        timerScript39.Enabled = true
+
+    else
+        -- Disable script35 immediately if unchecked
+        if SCRIPT_35_disableInfo then
+            autoAssemble(script35, SCRIPT_35_disableInfo)
+            SCRIPT_35_disableInfo = nil
+        end
+
+        -- Disable script36 immediately if unchecked
+        if SCRIPT_36_disableInfo then
+            autoAssemble(script36, SCRIPT_36_disableInfo)
+            SCRIPT_36_disableInfo = nil
+        end
+
+        -- Disable script37 immediately if unchecked
+        if SCRIPT_37_disableInfo then
+            autoAssemble(script37, SCRIPT_37_disableInfo)
+            SCRIPT_37_disableInfo = nil
+        end
+
+        -- Disable script38 immediately if unchecked
+        if SCRIPT_38_disableInfo then
+            autoAssemble(script38, SCRIPT_38_disableInfo)
+            SCRIPT_38_disableInfo = nil
+        end
+
+        -- Disable script39 immediately if unchecked
+        if SCRIPT_39_disableInfo then
+            autoAssemble(script39, SCRIPT_39_disableInfo)
+            SCRIPT_39_disableInfo = nil
+        end
+
+        -- Stop and destroy the timers if they're running
+        if timerScript37 then
+            timerScript37.destroy()
+            timerScript37 = nil
+        end
+
+        if timerScript38 then
+            timerScript38.destroy()
+            timerScript38 = nil
+        end
+
+        if timerScript39 then
+            timerScript39.destroy()
+            timerScript39 = nil
+        end
+    end
+end
+
+
+
+
+local SCRIPT_40_disableInfo, SCRIPT_41_disableInfo
+local timerScript40
+
+function ToggleBox9Click(sender)
+
+    local script40 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat              Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsEvadeInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsEvadeInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+nop
+nop
+nop
+nop
+
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsEvadeInvalidProb:
+jmp newmem
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsEvadeInvalidProb:
+mov [rsp+08],rbx
+//Alt: db 48 89 5C 24 08
+]]
+
+    local script41 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+  -- Check if ToggleBox9 is checked
+    if sender.Checked then
+        -- Enable script40
+        local SCRIPT_40_enabledOk
+        SCRIPT_40_enabledOk, SCRIPT_40_disableInfo = autoAssemble(script40)
+        if not SCRIPT_40_enabledOk then
+            local message = "Error enabling script 40"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+        -- Enable script41
+        local SCRIPT_41_enabledOk
+        SCRIPT_41_enabledOk, SCRIPT_41_disableInfo = autoAssemble(script41)
+        if not SCRIPT_41_enabledOk then
+            local message = "Error enabling script 41"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+    else
+        -- Disable script40 immediately if unchecked
+        if SCRIPT_40_disableInfo then
+            autoAssemble(script40, SCRIPT_40_disableInfo)
+            SCRIPT_40_disableInfo = nil
+        end
+
+        -- Disable script41 immediately if unchecked
+        if SCRIPT_41_disableInfo then
+            autoAssemble(script41, SCRIPT_41_disableInfo)
+            SCRIPT_41_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+local SCRIPT_42_disableInfo, SCRIPT_43_disableInfo
+local timerScript42
+
+function ToggleBox10Click(sender)
+
+    local script42 = [[
+{$lua}
+if syntaxcheck then return end
+[ENABLE]
+COOPRAIDNOCD = "Bleach.Games.Common.FloatTimer.IsEnd"
+writeBytes(COOPRAIDNOCD, 0xF3, 0x0F, 0x11, 0x6E, 0x1C)
+[DISABLE]
+writeBytes(COOPRAIDNOCD, 0xF3, 0x0F, 0x10, 0x46, 0x1C)
+]]
+
+    local script43 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+
+    -- Check if ToggleBox10 is checked
+    if sender.Checked then
+        -- Enable script42
+        local SCRIPT_42_enabledOk
+        SCRIPT_42_enabledOk, SCRIPT_42_disableInfo = autoAssemble(script42)
+        if not SCRIPT_42_enabledOk then
+            local message = "Error enabling script 42"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+        -- Enable script43
+        local SCRIPT_43_enabledOk
+        SCRIPT_43_enabledOk, SCRIPT_43_disableInfo = autoAssemble(script43)
+        if not SCRIPT_43_enabledOk then
+            local message = "Error enabling script 43"
+            messageDialog(message, mtWarning, mbOK)
+            return
+        end
+
+    else
+        -- Disable script42 immediately if unchecked
+        if SCRIPT_42_disableInfo then
+            autoAssemble(script42, SCRIPT_42_disableInfo)
+            SCRIPT_42_disableInfo = nil
+        end
+
+        -- Disable script43 immediately if unchecked
+        if SCRIPT_43_disableInfo then
+            autoAssemble(script43, SCRIPT_43_disableInfo)
+            SCRIPT_43_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+local SCRIPT_44_disableInfo, SCRIPT_45_disableInfo, SCRIPT_46_disableInfo
+local SCRIPT_47_disableInfo, SCRIPT_48_disableInfo, SCRIPT_49_disableInfo, SCRIPT_50_disableInfo
+local SCRIPT_51_disableInfo, SCRIPT_52_disableInfo, SCRIPT_53_disableInfo, SCRIPT_54_disableInfo
+
+
+function ToggleBox11Click(sender)
+
+    local script44 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat      Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb:
+sub rsp,08
+mov eax,00000000
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+//Alt: db 48 83 EC 38 48 8B 41 28
+]]
+
+    local script45 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                 Bleach.Games.Common.Masters.PlayableMaster..ctor+50
+alloc(newmem,2048,Bleach.Games.Common.Masters.PlayableMaster..ctor+50)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+mov [rdi+3C],8000000
+mov eax,[rbx+000000E8]
+
+exit:
+jmp returnhere
+
+Bleach.Games.Common.Masters.PlayableMaster..ctor+50:
+jmp newmem
+nop 4
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Common.Masters.PlayableMaster..ctor+50:
+mov [rdi+3C],eax
+mov eax,[rbx+000000E8]
+//Alt: db 89 47 3C 8B 83 E8 00 00 00
+]]
+
+    local script46 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+]]
+
+    local script47 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+]]
+
+    local script48 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+]]
+
+
+    local script49 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+]]
+
+
+    local script50 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access           Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D
+//place your code here
+
+originalcode:
+mov [rcx+48],01 //ShapeType (Attack type)
+mov [rcx+4C],(float)1000 //ShapeRadius (Radius)
+mov [rcx+50],(float)360 //ShapeAngle (Direction (360 - in all directions))
+mov ecx,[rcx+48]
+sub ecx,01
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.CharaBase.UpdateCheckCollision+15D:
+mov ecx,[rcx+48]
+sub ecx,01
+//Alt: db 8B 49 48 83 E9 01
+]]
+
+
+    local script51 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+alloc(newmem,2048,BulletControl.SetUp+16B)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access         BulletControl.SetUp+16B
+//place your code here
+
+originalcode:
+mov [rdx+6C],02 //ProjectileType (Attack type)
+mov [rdx+70],(float)1000 //ProjectileWidth (Attack width)
+mov [rdx+78],(float)1000 //ProjectileLength (Attack range)
+mov [rdx+84],(float)1000 //ProjectileImpactRadius (Attack radius)
+mulss xmm1,[rdx+74]
+
+exit:
+jmp returnhere
+
+BulletControl.SetUp+16B:
+jmp newmem
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+BulletControl.SetUp+16B:
+mulss xmm1,[rdx+74]
+//Alt: db F3 0F 59 4A 74
+]]
+
+
+    local script52 = [[
+///////////////
+// ENABLE
+///////////////
+
+[ENABLE]
+
+// ---------- HOOK 1 ----------
+alloc(newmem1,2048,Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45)             //Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45
+label(return1)
+label(originalcode1)
+label(exit1)
+
+newmem1:
+
+originalcode1:
+    mov [rbx+60],(float)500000      // Shape Radius            Bleach.Games.Common.Characters.Status.StatusRevivalTimerBehaviour.set_Time
+    mov [rbx+64],(float)360         // Shape Angle             Bleach.Games.QuestBattle.Animations.MotionEvent.set_VariationIndex
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+exit1:
+    jmp return1
+
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45:
+    jmp newmem1
+    nop 2
+return1:
+
+// ---------- HOOK 2 ----------                          Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77
+alloc(newmem2,2048,Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77)
+label(return2)
+label(originalcode2)
+label(exit2)
+
+newmem2:
+
+originalcode2:
+    mov [rbx+6C],(float)900000          // Length          Bleach.Games.QuestBattle.Animations.MotionEvent.set_AdventAnimationLoop
+    mov [rbx+68],(float)900000          // Width           Bleach.Games.Common.Masters.CharacterAttackMaster.get_ReadyTime
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+exit2:
+    jmp return2
+
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77:
+    jmp newmem2
+    nop 2
+return2:
+
+
+
+///////////////
+// DISABLE
+///////////////
+
+[DISABLE]
+
+// --- Restore Hook 1 ---
+dealloc(newmem1)
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+45:
+    mov rcx,[rbx+18]
+    test rcx,rcx
+
+// --- Restore Hook 2 ---
+dealloc(newmem2)
+Bleach.Games.Common.Characters.Attack.FightingAttackBehaviour.CullingCircle+77:
+    mov rcx,[rbx+18]
+    test rcx,rcx
+]]
+
+
+    local script53 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+//Alt: db 40 53 48 83 EC 30
+]]
+
+
+    local script54 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+
+    -- Check if ToggleBox11 is checked
+    if sender.Checked then
+        -- Enable script44
+        local SCRIPT_44_enabledOk
+        SCRIPT_44_enabledOk, SCRIPT_44_disableInfo = autoAssemble(script44)
+        if not SCRIPT_44_enabledOk then
+            return
+        end
+
+        -- Enable script45
+        local SCRIPT_45_enabledOk
+        SCRIPT_45_enabledOk, SCRIPT_45_disableInfo = autoAssemble(script45)
+        if not SCRIPT_45_enabledOk then
+            return
+        end
+
+        -- Enable script46
+        local SCRIPT_46_enabledOk
+        SCRIPT_46_enabledOk, SCRIPT_46_disableInfo = autoAssemble(script46)
+        if not SCRIPT_46_enabledOk then
+            return
+        end
+
+        -- Enable script47
+        local SCRIPT_47_enabledOk
+        SCRIPT_47_enabledOk, SCRIPT_47_disableInfo = autoAssemble(script47)
+        if not SCRIPT_47_enabledOk then
+            return
+        end
+
+        -- Enable script48
+        local SCRIPT_48_enabledOk
+        SCRIPT_48_enabledOk, SCRIPT_48_disableInfo = autoAssemble(script48)
+        if not SCRIPT_48_enabledOk then
+            return
+        end
+
+        -- Enable script49
+        local SCRIPT_49_enabledOk
+        SCRIPT_49_enabledOk, SCRIPT_49_disableInfo = autoAssemble(script49)
+        if not SCRIPT_49_enabledOk then
+            return
+        end
+
+        -- Enable script50
+        local SCRIPT_50_enabledOk
+        SCRIPT_50_enabledOk, SCRIPT_50_disableInfo = autoAssemble(script50)
+        if not SCRIPT_50_enabledOk then
+            return
+        end
+
+        -- Enable script51
+        local SCRIPT_51_enabledOk
+        SCRIPT_51_enabledOk, SCRIPT_51_disableInfo = autoAssemble(script51)
+        if not SCRIPT_51_enabledOk then
+            return
+        end
+
+        -- Enable script52
+        local SCRIPT_52_enabledOk
+        SCRIPT_52_enabledOk, SCRIPT_52_disableInfo = autoAssemble(script52)
+        if not SCRIPT_52_enabledOk then
+            return
+        end
+
+        -- Enable script53
+        local SCRIPT_53_enabledOk
+        SCRIPT_53_enabledOk, SCRIPT_53_disableInfo = autoAssemble(script53)
+        if not SCRIPT_53_enabledOk then
+            return
+        end
+
+        -- Enable script54
+        local SCRIPT_54_enabledOk
+        SCRIPT_54_enabledOk, SCRIPT_54_disableInfo = autoAssemble(script54)
+        if not SCRIPT_54_enabledOk then
+            return
+        end
+
+    else
+        -- Disable script44
+        if SCRIPT_44_disableInfo then
+            autoAssemble(script44, SCRIPT_44_disableInfo)
+            SCRIPT_44_disableInfo = nil
+        end
+
+        -- Disable script45
+        if SCRIPT_45_disableInfo then
+            autoAssemble(script45, SCRIPT_45_disableInfo)
+            SCRIPT_45_disableInfo = nil
+        end
+
+        -- Disable script46
+        if SCRIPT_46_disableInfo then
+            autoAssemble(script46, SCRIPT_46_disableInfo)
+            SCRIPT_46_disableInfo = nil
+        end
+
+        -- Disable script47
+        if SCRIPT_47_disableInfo then
+            autoAssemble(script47, SCRIPT_47_disableInfo)
+            SCRIPT_47_disableInfo = nil
+        end
+
+        -- Disable script48
+        if SCRIPT_48_disableInfo then
+            autoAssemble(script48, SCRIPT_48_disableInfo)
+            SCRIPT_48_disableInfo = nil
+        end
+
+        -- Disable script49
+        if SCRIPT_49_disableInfo then
+            autoAssemble(script49, SCRIPT_49_disableInfo)
+            SCRIPT_49_disableInfo = nil
+        end
+
+        -- Disable script50
+        if SCRIPT_50_disableInfo then
+            autoAssemble(script50, SCRIPT_50_disableInfo)
+            SCRIPT_50_disableInfo = nil
+        end
+
+        -- Disable script51
+        if SCRIPT_51_disableInfo then
+            autoAssemble(script51, SCRIPT_51_disableInfo)
+            SCRIPT_51_disableInfo = nil
+        end
+
+        -- Disable script52
+        if SCRIPT_52_disableInfo then
+            autoAssemble(script52, SCRIPT_52_disableInfo)
+            SCRIPT_52_disableInfo = nil
+        end
+
+        -- Disable script53
+        if SCRIPT_53_disableInfo then
+            autoAssemble(script53, SCRIPT_53_disableInfo)
+            SCRIPT_53_disableInfo = nil
+        end
+
+        -- Disable script54
+        if SCRIPT_54_disableInfo then
+            autoAssemble(script54, SCRIPT_54_disableInfo)
+            SCRIPT_54_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_55_disableInfo, SCRIPT_56_disableInfo
+
+function ToggleBox12Click(sender)
+    local script55 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                 Bleach.Games.Common.Masters.PlayableMaster..ctor+59
+alloc(newmem,2048,Bleach.Games.Common.Masters.PlayableMaster..ctor+59)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+mov [rdi+40],9200
+mov eax,[rbx+000000EC]
+
+exit:
+jmp returnhere
+
+Bleach.Games.Common.Masters.PlayableMaster..ctor+59:
+jmp newmem
+nop 4
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Common.Masters.PlayableMaster..ctor+59:
+mov [rdi+40],eax
+mov eax,[rbx+000000EC]
+//Alt: db 89 47 40 8B 83 EC 00 00 00
+    ]]
+
+    local script56 = [[
+    [ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    -- Check if ToggleBox12 is checked
+    if sender.Checked then
+        -- Enable script55
+        local SCRIPT_55_enabledOk
+        SCRIPT_55_enabledOk, SCRIPT_55_disableInfo = autoAssemble(script55)
+        if not SCRIPT_55_enabledOk then
+            return
+        end
+
+        -- Enable script56
+        local SCRIPT_56_enabledOk
+        SCRIPT_56_enabledOk, SCRIPT_56_disableInfo = autoAssemble(script56)
+        if not SCRIPT_56_enabledOk then
+            return
+        end
+
+    else
+        -- Disable script55
+        if SCRIPT_55_disableInfo then
+            autoAssemble(script55, SCRIPT_55_disableInfo)
+            SCRIPT_55_disableInfo = nil
+        end
+
+        -- Disable script56
+        if SCRIPT_56_disableInfo then
+            autoAssemble(script56, SCRIPT_56_disableInfo)
+            SCRIPT_56_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_57_disableInfo, SCRIPT_58_disableInfo
+
+function ToggleBox13Click(sender)
+    local script57 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6
+alloc(newmem,2048,Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+xor rcx,rcx
+
+exit:
+jmp returnhere
+
+Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6:
+jmp newmem
+nop 2
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6:
+cmp byte ptr [rcx+30],00
+mov rbx,rcx
+//Alt: db 80 79 30 00 48 8B D9
+    ]]
+
+    local script58 = [[
+    [ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+    ]]
+
+    -- Check if ToggleBox13 is checked
+    if sender.Checked then
+        -- Enable script57
+        local SCRIPT_57_enabledOk
+        SCRIPT_57_enabledOk, SCRIPT_57_disableInfo = autoAssemble(script57)
+        if not SCRIPT_57_enabledOk then
+            return
+        end
+
+        -- Enable script58
+        local SCRIPT_58_enabledOk
+        SCRIPT_58_enabledOk, SCRIPT_58_disableInfo = autoAssemble(script58)
+        if not SCRIPT_58_enabledOk then
+            return
+        end
+
+    else
+        -- Disable script57
+        if SCRIPT_57_disableInfo then
+            autoAssemble(script57, SCRIPT_57_disableInfo)
+            SCRIPT_57_disableInfo = nil
+        end
+
+        -- Disable script58
+        if SCRIPT_58_disableInfo then
+            autoAssemble(script58, SCRIPT_58_disableInfo)
+            SCRIPT_58_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_59_disableInfo, SCRIPT_60_disableInfo, SCRIPT_61_disableInfo, SCRIPT_62_disableInfo,
+      SCRIPT_63_disableInfo, SCRIPT_64_disableInfo, SCRIPT_65_disableInfo, SCRIPT_66_disableInfo
+
+function ToggleBox14Click(sender)
+    local script59 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat      Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRcvDmgInvalidProb:
+sub rsp,08
+mov eax,00000000
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+    local script60 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+jmp newmem
+nop
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.IsDyingSurvivalProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+//Alt: db 40 53 48 83 EC 30
+    ]]
+
+    local script61 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsHitHiddenEnemyProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+    local script62 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBlueAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+    local script63 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsRedAttackCrossProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+
+    local script64 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat     Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb
+alloc(newmem,2048,Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+exit:
+jmp returnhere
+
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+jmp newmem
+nop 3
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.QuestBattle.Characters.AbilityEnhancement.get_IsBadStInvalidProb:
+sub rsp,08
+mov eax,00000001
+add rsp,08
+ret
+ret
+add [rax],al
+add [rax],al
+
+//Alt: db 48 83 EC 38 48 8B 41 28
+    ]]
+
+    local script65 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                 Bleach.Games.Common.Masters.PlayableMaster..ctor+50
+alloc(newmem,2048,Bleach.Games.Common.Masters.PlayableMaster..ctor+50)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+mov [rdi+3C],8000000
+mov eax,[rbx+000000E8]
+
+exit:
+jmp returnhere
+
+Bleach.Games.Common.Masters.PlayableMaster..ctor+50:
+jmp newmem
+nop 4
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Common.Masters.PlayableMaster..ctor+50:
+mov [rdi+3C],eax
+mov eax,[rbx+000000E8]
+//Alt: db 89 47 3C 8B 83 E8 00 00 00
+    ]]
+
+    local script66 = [[
+{$lua}
+if syntaxcheck then return end
+
+-- Define the address only once
+COOPRAIDNOCD = "Bleach.Games.Common.FloatTimer.IsEnd"
+
+[ENABLE]
+-- Write new bytes
+writeBytes(COOPRAIDNOCD, 0xF3, 0x0F, 0x11, 0x6E, 0x1C)
+
+-- Play sound
+playSound(findTableFile('buttonpress.wav'))
+
+[DISABLE]
+-- Restore original bytes
+writeBytes(COOPRAIDNOCD, 0xF3, 0x0F, 0x10, 0x46, 0x1C)
+]]
+
+
+    -- Check if ToggleBox14 is checked
+    if sender.Checked then
+        -- Enable script59
+        local SCRIPT_59_enabledOk
+        SCRIPT_59_enabledOk, SCRIPT_59_disableInfo = autoAssemble(script59)
+        if not SCRIPT_59_enabledOk then
+            return
+        end
+
+        -- Enable script60
+        local SCRIPT_60_enabledOk
+        SCRIPT_60_enabledOk, SCRIPT_60_disableInfo = autoAssemble(script60)
+        if not SCRIPT_60_enabledOk then
+            return
+        end
+
+        -- Enable script61
+        local SCRIPT_61_enabledOk
+        SCRIPT_61_enabledOk, SCRIPT_61_disableInfo = autoAssemble(script61)
+        if not SCRIPT_61_enabledOk then
+            return
+        end
+
+        -- Enable script62
+        local SCRIPT_62_enabledOk
+        SCRIPT_62_enabledOk, SCRIPT_62_disableInfo = autoAssemble(script62)
+        if not SCRIPT_62_enabledOk then
+            return
+        end
+
+        -- Enable script63
+        local SCRIPT_63_enabledOk
+        SCRIPT_63_enabledOk, SCRIPT_63_disableInfo = autoAssemble(script63)
+        if not SCRIPT_63_enabledOk then
+            return
+        end
+
+        -- Enable script64
+        local SCRIPT_64_enabledOk
+        SCRIPT_64_enabledOk, SCRIPT_64_disableInfo = autoAssemble(script64)
+        if not SCRIPT_64_enabledOk then
+            return
+        end
+
+        -- Enable script65
+        local SCRIPT_65_enabledOk
+        SCRIPT_65_enabledOk, SCRIPT_65_disableInfo = autoAssemble(script65)
+        if not SCRIPT_65_enabledOk then
+            return
+        end
+
+        -- Enable script66
+        local SCRIPT_66_enabledOk
+        SCRIPT_66_enabledOk, SCRIPT_66_disableInfo = autoAssemble(script66)
+        if not SCRIPT_66_enabledOk then
+            return
+        end
+
+    else
+        -- Disable script59
+        if SCRIPT_59_disableInfo then
+            autoAssemble(script59, SCRIPT_59_disableInfo)
+            SCRIPT_59_disableInfo = nil
+        end
+
+        -- Disable script60
+        if SCRIPT_60_disableInfo then
+            autoAssemble(script60, SCRIPT_60_disableInfo)
+            SCRIPT_60_disableInfo = nil
+        end
+
+        -- Disable script61
+        if SCRIPT_61_disableInfo then
+            autoAssemble(script61, SCRIPT_61_disableInfo)
+            SCRIPT_61_disableInfo = nil
+        end
+
+        -- Disable script62
+        if SCRIPT_62_disableInfo then
+            autoAssemble(script62, SCRIPT_62_disableInfo)
+            SCRIPT_62_disableInfo = nil
+        end
+
+        -- Disable script63
+        if SCRIPT_63_disableInfo then
+            autoAssemble(script63, SCRIPT_63_disableInfo)
+            SCRIPT_63_disableInfo = nil
+        end
+
+        -- Disable script64
+        if SCRIPT_64_disableInfo then
+            autoAssemble(script64, SCRIPT_64_disableInfo)
+            SCRIPT_64_disableInfo = nil
+        end
+
+        -- Disable script65
+        if SCRIPT_65_disableInfo then
+            autoAssemble(script65, SCRIPT_65_disableInfo)
+            SCRIPT_65_disableInfo = nil
+        end
+
+        -- Disable script66
+        if SCRIPT_66_disableInfo then
+            autoAssemble(script66, SCRIPT_66_disableInfo)
+            SCRIPT_66_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+local SCRIPT_67_disableInfo
+local SCRIPT_68_disableInfo
+
+-- Script definitions
+local script67 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 2)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script68 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script67
+    local SCRIPT_67_enabledOk
+    SCRIPT_67_enabledOk, SCRIPT_67_disableInfo = autoAssemble(script67)
+    if not SCRIPT_67_enabledOk then
+        local message = "Error enabling script 67"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script68
+    local SCRIPT_68_enabledOk
+    SCRIPT_68_enabledOk, SCRIPT_68_disableInfo = autoAssemble(script68)
+    if not SCRIPT_68_enabledOk then
+        local message = "Error enabling script 68"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- Function to disable scripts
+local function disableScripts()
+    -- Disable script67 if it was previously enabled
+    if SCRIPT_67_disableInfo then
+        autoAssemble(script67, SCRIPT_67_disableInfo)
+        SCRIPT_67_disableInfo = nil
+    end
+
+    -- Disable script68 if it was previously enabled
+    if SCRIPT_68_disableInfo then
+        autoAssemble(script68, SCRIPT_68_disableInfo)
+        SCRIPT_68_disableInfo = nil
+    end
+end
+
+-- ToggleBox15 click handler
+function ToggleBox15Click(sender)
+    -- Check if ToggleBox15 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        disableScripts()
+    end
+end
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_69_disableInfo
+local SCRIPT_70_disableInfo
+
+-- Script definitions
+local script69 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 4)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script70 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script69
+    local SCRIPT_69_enabledOk
+    SCRIPT_69_enabledOk, SCRIPT_69_disableInfo = autoAssemble(script69)
+    if not SCRIPT_69_enabledOk then
+        local message = "Error enabling script 69"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script70
+    local SCRIPT_70_enabledOk
+    SCRIPT_70_enabledOk, SCRIPT_70_disableInfo = autoAssemble(script70)
+    if not SCRIPT_70_enabledOk then
+        local message = "Error enabling script 70"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- Function to disable scripts
+local function disableScripts()
+    -- Disable script69 if it was previously enabled
+    if SCRIPT_69_disableInfo then
+        autoAssemble(script69, SCRIPT_69_disableInfo)
+        SCRIPT_69_disableInfo = nil
+    end
+
+    -- Disable script70 if it was previously enabled
+    if SCRIPT_70_disableInfo then
+        autoAssemble(script70, SCRIPT_70_disableInfo)
+        SCRIPT_70_disableInfo = nil
+    end
+end
+
+-- ToggleBox16 click handler (renamed to ToggleBox17 for clarity)
+function ToggleBox16Click(sender)
+    -- Check if ToggleBox17 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        disableScripts()
+    end
+end
+
+
+
+
+
+
+
+
+local SCRIPT_71_disableInfo
+local SCRIPT_72_disableInfo
+
+-- Script definitions
+local script71 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 6)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script72 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script71
+    local SCRIPT_71_enabledOk
+    SCRIPT_71_enabledOk, SCRIPT_71_disableInfo = autoAssemble(script71)
+    if not SCRIPT_71_enabledOk then
+        local message = "Error enabling script 71"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script72
+    local SCRIPT_72_enabledOk
+    SCRIPT_72_enabledOk, SCRIPT_72_disableInfo = autoAssemble(script72)
+    if not SCRIPT_72_enabledOk then
+        local message = "Error enabling script 72"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- ToggleBox18 click handler
+function ToggleBox17Click(sender)
+    -- Check if ToggleBox18 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        if SCRIPT_71_disableInfo then
+            autoAssemble(script71, SCRIPT_71_disableInfo)
+            SCRIPT_71_disableInfo = nil
+        end
+        if SCRIPT_72_disableInfo then
+            autoAssemble(script72, SCRIPT_72_disableInfo)
+            SCRIPT_72_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_73_disableInfo
+local SCRIPT_74_disableInfo
+
+-- Script definitions
+local script73 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 8)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script74 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script73
+    local SCRIPT_73_enabledOk
+    SCRIPT_73_enabledOk, SCRIPT_73_disableInfo = autoAssemble(script73)
+    if not SCRIPT_73_enabledOk then
+        local message = "Error enabling script 73"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script74
+    local SCRIPT_74_enabledOk
+    SCRIPT_74_enabledOk, SCRIPT_74_disableInfo = autoAssemble(script74)
+    if not SCRIPT_74_enabledOk then
+        local message = "Error enabling script 74"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- ToggleBox19 click handler
+function ToggleBox18Click(sender)
+    -- Check if ToggleBox19 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        if SCRIPT_73_disableInfo then
+            autoAssemble(script73, SCRIPT_73_disableInfo)
+            SCRIPT_73_disableInfo = nil
+        end
+        if SCRIPT_74_disableInfo then
+            autoAssemble(script74, SCRIPT_74_disableInfo)
+            SCRIPT_74_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_75_disableInfo
+local SCRIPT_76_disableInfo
+
+-- Script definitions
+local script75 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 12)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script76 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script75
+    local SCRIPT_75_enabledOk
+    SCRIPT_75_enabledOk, SCRIPT_75_disableInfo = autoAssemble(script75)
+    if not SCRIPT_75_enabledOk then
+        local message = "Error enabling script 75"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script76
+    local SCRIPT_76_enabledOk
+    SCRIPT_76_enabledOk, SCRIPT_76_disableInfo = autoAssemble(script76)
+    if not SCRIPT_76_enabledOk then
+        local message = "Error enabling script 76"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- ToggleBox20 click handler
+function ToggleBox19Click(sender)
+    -- Check if ToggleBox20 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        if SCRIPT_75_disableInfo then
+            autoAssemble(script75, SCRIPT_75_disableInfo)
+            SCRIPT_75_disableInfo = nil
+        end
+        if SCRIPT_76_disableInfo then
+            autoAssemble(script76, SCRIPT_76_disableInfo)
+            SCRIPT_76_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_77_disableInfo
+local SCRIPT_78_disableInfo
+
+-- Script definitions
+local script77 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 20)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script78 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script77
+    local SCRIPT_77_enabledOk
+    SCRIPT_77_enabledOk, SCRIPT_77_disableInfo = autoAssemble(script77)
+    if not SCRIPT_77_enabledOk then
+        local message = "Error enabling script 77"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script78
+    local SCRIPT_78_enabledOk
+    SCRIPT_78_enabledOk, SCRIPT_78_disableInfo = autoAssemble(script78)
+    if not SCRIPT_78_enabledOk then
+        local message = "Error enabling script 78"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- ToggleBox21 click handler
+function ToggleBox20Click(sender)
+    -- Check if ToggleBox21 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        if SCRIPT_77_disableInfo then
+            autoAssemble(script77, SCRIPT_77_disableInfo)
+            SCRIPT_77_disableInfo = nil
+        end
+        if SCRIPT_78_disableInfo then
+            autoAssemble(script78, SCRIPT_78_disableInfo)
+            SCRIPT_78_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+local SCRIPT_79_disableInfo
+local SCRIPT_80_disableInfo
+
+-- Script definitions
+local script79 = [[
+{$lua}
+[ENABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 30)
+[DISABLE]
+writeFloat('["UnityPlayer.dll"+01CADC78]+FC', 1)
+]]
+
+local script80 = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat                UnityEngine.Time.set_timeScale
+alloc(newmem,2048,UnityEngine.Time.set_timeScale)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+ret
+
+exit:
+jmp returnhere
+
+UnityEngine.Time.set_timeScale:
+jmp newmem
+nop 9
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+UnityEngine.Time.set_timeScale:
+ret
+//Alt: db 48 83 EC 38 48 8B 05 7D C4 5E 01
+]]
+
+-- Function to enable scripts
+local function enableScripts()
+    -- Enable script79
+    local SCRIPT_79_enabledOk
+    SCRIPT_79_enabledOk, SCRIPT_79_disableInfo = autoAssemble(script79)
+    if not SCRIPT_79_enabledOk then
+        local message = "Error enabling script 79"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    -- Enable script80
+    local SCRIPT_80_enabledOk
+    SCRIPT_80_enabledOk, SCRIPT_80_disableInfo = autoAssemble(script80)
+    if not SCRIPT_80_enabledOk then
+        local message = "Error enabling script 80"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+
+    return true
+end
+
+-- ToggleBox21 click handler
+function ToggleBox21Click(sender)
+    -- Check if ToggleBox21 is checked
+    if sender.Checked then
+        -- Enable scripts
+        enableScripts()
+    else
+        -- Disable scripts
+        if SCRIPT_79_disableInfo then
+            autoAssemble(script79, SCRIPT_79_disableInfo)
+            SCRIPT_79_disableInfo = nil
+        end
+        if SCRIPT_80_disableInfo then
+            autoAssemble(script80, SCRIPT_80_disableInfo)
+            SCRIPT_80_disableInfo = nil
+        end
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local SCRIPT_81_disableInfo, SCRIPT_86_disableInfo
+
+-- Script definitions
+local script81 = [[
+{$lua}
+if syntaxcheck then return end
+
+[ENABLE]
+speedhack_setSpeed(3)
+
+[DISABLE]
+speedhack_setSpeed(1)
+]]
+
+local script86 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+-- Function to enable script81
+local function enableScript81()
+    local enabledOk
+    enabledOk, SCRIPT_81_disableInfo = autoAssemble(script81)
+    if not enabledOk then
+        local message = "Error enabling script 81"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script81
+local function disableScript81()
+    if SCRIPT_81_disableInfo then
+        autoAssemble(script81, SCRIPT_81_disableInfo)
+        SCRIPT_81_disableInfo = nil
+    end
+end
+
+-- Function to enable script86
+local function enableScript86()
+    local enabledOk
+    enabledOk, SCRIPT_86_disableInfo = autoAssemble(script86)
+    if not enabledOk then
+        local message = "Error enabling script 86"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script86
+local function disableScript86()
+    if SCRIPT_86_disableInfo then
+        autoAssemble(script86, SCRIPT_86_disableInfo)
+        SCRIPT_86_disableInfo = nil
+    end
+end
+
+-- ToggleBox22 click handler
+function ToggleBox22Click(sender)
+    if sender.Checked then
+        -- Enable scripts
+        enableScript81()
+        enableScript86()
+    else
+        -- Disable scripts
+        disableScript81()
+        disableScript86()
+    end
+end
+
+
+
+
+
+
+
+
+
+local SCRIPT_82_disableInfo, SCRIPT_85_disableInfo
+
+-- Script definitions
+local script82 = [[
+{$lua}
+if syntaxcheck then return end
+
+[ENABLE]
+speedhack_setSpeed(5)
+
+[DISABLE]
+speedhack_setSpeed(1)
+]]
+
+local script85 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+-- Function to enable script82
+local function enableScript82()
+    local enabledOk
+    enabledOk, SCRIPT_82_disableInfo = autoAssemble(script82)
+    if not enabledOk then
+        local message = "Error enabling script 82"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script82
+local function disableScript82()
+    if SCRIPT_82_disableInfo then
+        autoAssemble(script82, SCRIPT_82_disableInfo)
+        SCRIPT_82_disableInfo = nil
+    end
+end
+
+-- Function to enable script85
+local function enableScript85()
+    local enabledOk
+    enabledOk, SCRIPT_85_disableInfo = autoAssemble(script85)
+    if not enabledOk then
+        local message = "Error enabling script 85"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script85
+local function disableScript85()
+    if SCRIPT_85_disableInfo then
+        autoAssemble(script85, SCRIPT_85_disableInfo)
+        SCRIPT_85_disableInfo = nil
+    end
+end
+
+-- ToggleBox23 click handler
+function ToggleBox23Click(sender)
+    if sender.Checked then
+        -- Enable scripts
+        enableScript82()
+        enableScript85()
+    else
+        -- Disable scripts
+        disableScript82()
+        disableScript85()
+    end
+end
+
+
+
+
+
+
+
+
+local SCRIPT_83_disableInfo, SCRIPT_84_disableInfo
+
+-- Script definitions
+local script83 = [[
+{$lua}
+if syntaxcheck then return end
+
+[ENABLE]
+speedhack_setSpeed(10)
+
+[DISABLE]
+speedhack_setSpeed(1)
+]]
+
+local script84 = [[
+[ENABLE]
+{$Lua}
+if syntaxcheck then return end
+-- Play the loading sound when enabled
+playSound(findTableFile('buttonpress.wav'))
+{$Asm}
+
+[DISABLE]
+{$Lua}
+if syntaxcheck then return end
+{$Asm}
+]]
+
+-- Function to enable script83
+local function enableScript83()
+    local enabledOk
+    enabledOk, SCRIPT_83_disableInfo = autoAssemble(script83)
+    if not enabledOk then
+        local message = "Error enabling script 83"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script83
+local function disableScript83()
+    if SCRIPT_83_disableInfo then
+        autoAssemble(script83, SCRIPT_83_disableInfo)
+        SCRIPT_83_disableInfo = nil
+    end
+end
+
+-- Function to enable script84
+local function enableScript84()
+    local enabledOk
+    enabledOk, SCRIPT_84_disableInfo = autoAssemble(script84)
+    if not enabledOk then
+        local message = "Error enabling script 84"
+        messageDialog(message, mtWarning, mbOK)
+        return false
+    end
+    return true
+end
+
+-- Function to disable script84
+local function disableScript84()
+    if SCRIPT_84_disableInfo then
+        autoAssemble(script84, SCRIPT_84_disableInfo)
+        SCRIPT_84_disableInfo = nil
+    end
+end
+
+-- ToggleBox24 click handler
+function ToggleBox24Click(sender)
+    if sender.Checked then
+        -- Enable scripts
+        enableScript83()
+        enableScript84()
+    else
+        -- Disable scripts
+        disableScript83()
+        disableScript84()
+    end
+end
+
+
+
+
+
+
+
+
+-- Create a reference to the cheat table record
+local memrec = nil
+
+-- Your auto assembler script
+local script = [[
+[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat    Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6
+alloc(newmem,2048,Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6)
+label(returnhere)
+label(originalcode)
+label(exit)
+
+newmem: //this is allocated memory, you have read,write,execute access
+//place your code here
+
+originalcode:
+xor rcx,rcx
+
+exit:
+jmp returnhere
+
+Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6:
+jmp newmem
+nop 2
+returnhere:
+
+
+
+
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+Bleach.Games.Guild.UI.GuildUIController.UpdateTimeCount+6:
+cmp byte ptr [rcx+30],00
+mov rbx,rcx
+//Alt: db 80 79 30 00 48 8B D9
+]]
+
+-- Create the memory record in the cheat table
+memrec = getAddressList().createMemoryRecord()
+memrec.setType(vtAutoAssembler)
+memrec.Script = script
+memrec.Active = false  -- start disabled
+
+-- Hotkey function (toggle)
+createHotkey(function()
+    memrec.Active = not memrec.Active
+end, VK_F2)
+
+
+
+
+
